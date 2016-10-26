@@ -2,13 +2,13 @@
 <head>
     <meta charset="utf-8">
     <title>Sankey Chart</title>
-    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js?ver=3.0.1"></script>
 </head>
 
 <body>
 <div id='input-parameter'>
-    <form id='user-input' action='POST'>
+    <form id='user-input' action={{ url_for('submit') }}>
     Choose Date: (e.g. 20150809)
     <br>
     <input type="text" name="field1" id="enteredDate" placeholder="YYYYMMDD" value=20150809>
@@ -23,51 +23,9 @@
 <p id="chart">
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="sankey.js"></script>
+<script src="{{ url_for('static', filename='js/sankey.js') }}"></script>
 
 <script>
-$(document).ready(function(){
-    $("#submit").click(function(){
-        var inputDate = $("#enteredDate").val();  
-        var inputID = $("#enteredID").val();
-        console.log(inputID);
-        //var fs = require('fs');
-        //var files = fs.readdirSync('/data');
-        //console.log(files);
-        files =['20150809.txt'];
-        if(files.indexOf(inputDate+'.txt') == -1) {
-            alert('The data for that date is not available!', inputDate);
-            form.field1.focus();
-        };
-        datafile = 'data/'+inputDate+'.csv';  
-        d3.select("#default_sankey").remove(); 
-        // append the new svg canvas to the page
-        var units = "Trips";
-        var margin = {top: 10, right: 10, bottom: 10, left: 10},
-            width = 800 - margin.left - margin.right,
-            height = 500 - margin.top - margin.bottom;
-
-        var formatNumber = d3.format(",.0f"),    // zero decimal places
-            format = function(d) { return formatNumber(d) + " " + units; },
-            color = d3.scale.category20();
-
-        var svg2 = d3.select("#chart").append("svg")
-            .attr("id","new_sankey")
-            .attr("width", width + margin.left + margin.right)
-            .attr("height", height + margin.top + margin.bottom)
-            .append("g")
-            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-        // Set the sankey diagram properties
-        var sankey = d3.sankey()
-            .nodeWidth(35)
-            .nodePadding(20)
-            .size([width, height]);
-
-        var path = sankey.link();
-        render(datafile, inputID, svg2);
-    });
-});
-
 var units = "Trips";
 
 var margin = {top: 10, right: 10, bottom: 10, left: 10},
@@ -105,6 +63,10 @@ function render(datafile,targetID, svg){
         return parseInt(row['target']) == parseInt(targetID);
     })
         console.log(data);
+        if (len(data)==0){
+            document.getElementById('chart').innerHTML='The input submtz ID is invalid!';
+            return;
+        }
 
         //set up graph in same style as original example but empty
         graph = {"nodes" : [], "links" : []};
@@ -202,7 +164,7 @@ function render(datafile,targetID, svg){
         }
     });
 }
-render(undefined,undefined,svg);
+render({{inputDate}},{{inputID}},svg);
 
 </script>
 

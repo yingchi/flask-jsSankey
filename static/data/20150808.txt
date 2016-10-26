@@ -1,0 +1,883 @@
+612,unknown,47.0,Nicoll Highway,1.0,Mountbatten,14.0,Stadium,5.0,Paya Lebar,5.0,Aljunied,1.0,Lavender,3.0,Kallang,4.0,Eunos,2.0,Dakota,14.0
+1289,Pasir Ris,8.0,unknown,61.0
+1501,Yishun,11.0,Khatib,12.0,unknown,52.0
+1306,unknown,31.0
+790,Stadium,5.0,Kallang,44.0,Boon Keng,5.0,Mountbatten,9.0,MacPherson,7.0,Paya Lebar,32.0,Dakota,4.0,Eunos,23.0,Potong Pasir,2.0,Aljunied,176.0,Bartley,1.0,Lavender,27.0,unknown,412.0,Tai Seng,3.0
+1260,Tanah Merah,20.0,unknown,69.0,Expo,5.0,Pasir Ris,3.0,Tampines,44.0,Simei,16.0
+483,Queenstown,7.0,Holland Village,1.0,Haw Par Villa,2.0,Commonwealth,5.0,one-north,1.0,Buona Vista,12.0,Dover,7.0,unknown,149.0,Kent Ridge,28.0
+836,Tai Seng,2.0,Bugis,4.0,MacPherson,1.0,Aljunied,1.0,Boon Keng,22.0,unknown,33.0,Kallang,3.0,Farrer Park,4.0,Toa Payoh,3.0,Lavender,2.0,Potong Pasir,9.0
+1372,Yew Tee,17.0,Choa Chu Kang,2.0,unknown,88.0,Kranji,7.0
+948,Tanah Merah,30.0,unknown,237.0,Expo,95.0,Simei,10.0
+1177,Pasir Ris,4.0,Tampines,35.0,Simei,16.0,Expo,9.0,Tanah Merah,13.0,unknown,132.0
+595,Commonwealth,11.0,unknown,6.0,one-north,1.0,Redhill,1.0
+1484,Lavender,33.0,Farrer Park,22.0,Dakota,5.0,Stadium,38.0,Potong Pasir,4.0,Bartley,2.0,Boon Keng,11.0,Kallang,184.0,Eunos,27.0,unknown,536.0,Nicoll Highway,5.0,Tai Seng,1.0,Mountbatten,23.0,MacPherson,4.0,Paya Lebar,28.0,Aljunied,196.0,Woodleigh,1.0
+529,unknown,51.0
+724,Bedok,41.0,Eunos,19.0,unknown,124.0,Kembangan,30.0
+484,Redhill,18.0,HarbourFront,1.0,Queenstown,1.0,Dhoby Ghaut,14.0,Somerset,6.0,Chinatown,4.0,Orchard,22.0,Clarke Quay,2.0,Outram Park,3.0,Newton,2.0,Tiong Bahru,12.0,unknown,42.0,Commonwealth,4.0
+920,Bukit Batok,3.0,Jurong East,42.0,Lakeside,60.0,unknown,125.0,Bukit Gombak,2.0,Chinese Garden,29.0
+501,unknown,55.0,Pasir Panjang,1.0,Kent Ridge,1.0,Buona Vista,4.0,Haw Par Villa,48.0
+1502,Punggol,189.0,Sengkang,14.0,unknown,108.0
+613,Commonwealth,121.0,Farrer Road,1.0,Redhill,13.0,Queenstown,9.0,Dover,1.0,Botanic Gardens,1.0,Holland Village,3.0,Buona Vista,4.0,unknown,620.0
+949,unknown,1.0
+837,Orchard,17.0,Somerset,1.0,Boon Keng,1.0,Farrer Park,2.0,Potong Pasir,1.0,Novena,57.0,Little India,3.0,Bugis,7.0,Braddell,2.0,unknown,39.0,Dhoby Ghaut,3.0,Lavender,9.0,Toa Payoh,27.0
+596,Kent Ridge,1.0,one-north,2.0,unknown,13.0,Queenstown,4.0,Dover,2.0,Buona Vista,9.0
+791,Lakeside,7.0,unknown,16.0,Chinese Garden,2.0
+1485,Aljunied,82.0,Promenade,57.0,Kallang,50.0,Clarke Quay,22.0,Lavender,416.0,Bras Basah,17.0,Boon Keng,48.0,Nicoll Highway,7.0,Bugis,303.0,Toa Payoh,16.0,Esplanade,16.0,Dhoby Ghaut,186.0,Stadium,16.0,Somerset,14.0,Little India,628.0,Potong Pasir,14.0,City Hall,124.0,Farrer Park,3302.0,Newton,4.0,Orchard,80.0,Novena,39.0,unknown,1153.0,Mountbatten,6.0
+1419,Sengkang,7.0,Buangkok,12.0,unknown,215.0,Hougang,142.0,Kovan,33.0
+485,HarbourFront,2.0,Tanjong Pagar,2.0,Chinatown,2.0,unknown,5.0
+726,Eunos,34.0,Bedok,72.0,Kembangan,28.0,unknown,168.0,Tanah Merah,11.0
+597,Tiong Bahru,5.0,Clarke Quay,1.0,City Hall,41.0,Farrer Park,3.0,unknown,34.0,Little India,1.0,Orchard,59.0,Novena,2.0,Dhoby Ghaut,30.0,Somerset,156.0,Redhill,1.0,Bugis,10.0,Promenade,3.0,Outram Park,1.0,Raffles Place,2.0,Chinatown,3.0
+1486,Caldecott,5.0,Potong Pasir,16.0,Bugis,2.0,Farrer Park,16.0,Serangoon,1.0,Aljunied,3.0,Kallang,5.0,Lavender,9.0,unknown,110.0,Braddell,8.0,Little India,13.0,Bishan,5.0,Boon Keng,20.0,Newton,2.0,Toa Payoh,69.0,Novena,17.0
+502,Haw Par Villa,1.0,Pasir Panjang,3.0,unknown,29.0
+838,Kallang,2.0,Farrer Park,12.0,Little India,3.0,unknown,36.0,Braddell,1.0,Newton,1.0,Novena,43.0,Toa Payoh,20.0,Dhoby Ghaut,4.0,Bugis,6.0,Orchard,9.0,Lavender,7.0,Somerset,1.0,Boon Keng,2.0
+1262,Jurong East,8.0,Lakeside,2.0,unknown,15.0,Chinese Garden,5.0
+921,Aljunied,46.0,Stadium,9.0,Tai Seng,5.0,Boon Keng,2.0,Kallang,16.0,unknown,314.0,MacPherson,8.0,Dakota,11.0,Eunos,35.0,Bartley,4.0,Paya Lebar,91.0,Mountbatten,5.0,Kembangan,10.0
+680,Farrer Park,42.0,Dakota,1.0,Dhoby Ghaut,3.0,City Hall,5.0,Toa Payoh,6.0,Aljunied,4.0,Boon Keng,12.0,Bugis,10.0,Promenade,2.0,Kallang,10.0,Little India,20.0,unknown,50.0,Lavender,42.0,Nicoll Highway,3.0,Novena,3.0,Potong Pasir,3.0
+1374,unknown,38.0,Khatib,3.0
+1067,Tampines,5.0,unknown,46.0,Tanah Merah,10.0,Simei,7.0,Expo,3.0,Bedok,3.0
+1150,Bukit Gombak,2.0,Choa Chu Kang,29.0,unknown,83.0,Yew Tee,1.0
+614,Aljunied,41.0,Paya Lebar,24.0,Stadium,112.0,Mountbatten,164.0,Kallang,20.0,Eunos,18.0,Boon Keng,5.0,Dakota,106.0,Nicoll Highway,18.0,Promenade,112.0,MacPherson,4.0,Lavender,19.0,unknown,699.0
+1179,Expo,2.0,Simei,6.0,unknown,32.0,Tampines,17.0
+1068,Marymount,3.0,Lorong Chuan,2.0,unknown,950.0,Farrer Park,34.0,Potong Pasir,4.0,Newton,7.0,Novena,62.0,Boon Keng,12.0,Bishan,33.0,Toa Payoh,734.0,Caldecott,26.0,Little India,26.0,Braddell,40.0
+681,unknown,16.0
+598,unknown,2.0,Outram Park,1.0,Tiong Bahru,3.0,Raffles Place,1.0,Somerset,4.0,Dhoby Ghaut,12.0,Bayfront,2.0,City Hall,2.0,Orchard,3.0
+727,Botanic Gardens,34.0,unknown,19.0,Buona Vista,1.0,Orchard,8.0,Somerset,1.0,Commonwealth,2.0,Holland Village,1.0,Queenstown,2.0
+1504,Punggol,29.0,unknown,19.0
+839,unknown,26.0,Boon Keng,1.0,Caldecott,1.0,Little India,5.0,Toa Payoh,21.0,Bishan,1.0,Novena,20.0
+486,Dhoby Ghaut,9.0,HarbourFront,15.0,unknown,73.0,Marina Bay,4.0,Outram Park,23.0,Telok Ayer,5.0,Chinatown,23.0,City Hall,10.0,Tanjong Pagar,121.0,Clarke Quay,1.0,Promenade,3.0,Esplanade,1.0,Downtown,4.0,Bayfront,6.0,Tiong Bahru,6.0,Raffles Place,39.0
+1263,Simei,9.0,Expo,6.0,unknown,67.0,Changi Airport,1.0
+1151,unknown,13.0,Choa Chu Kang,6.0
+793,unknown,183.0,Boon Lay,3.0,Jurong East,47.0,Chinese Garden,19.0,Lakeside,61.0
+1487,Somerset,3.0,Novena,17.0,Dhoby Ghaut,1.0,Boon Keng,3.0,Braddell,3.0,Caldecott,2.0,Kallang,1.0,Toa Payoh,15.0,Bugis,4.0,Lavender,5.0,Little India,3.0,unknown,30.0,Farrer Park,6.0
+810,Tanah Merah,81.0,unknown,317.0,Expo,13.0,Bedok,20.0,Simei,13.0,Tampines,14.0
+615,Eunos,20.0,Nicoll Highway,3.0,Aljunied,103.0,Mountbatten,51.0,Dakota,124.0,unknown,260.0,Stadium,21.0,MacPherson,5.0,Paya Lebar,37.0,Lavender,5.0,Kallang,35.0
+922,Woodleigh,1.0,Tai Seng,4.0,unknown,39.0,Bartley,2.0,MacPherson,1.0,Paya Lebar,1.0,Serangoon,4.0,Eunos,1.0
+682,unknown,12.0
+616,Dover,1.0,Buona Vista,2.0,Kent Ridge,1.0,Clementi,19.0,unknown,28.0
+1376,Yio Chu Kang,5.0,Khatib,5.0,unknown,12.0
+504,City Hall,7.0,Esplanade,4.0,Marina Bay,72.0,Marina South Pier,5.0,Dhoby Ghaut,10.0,Downtown,30.0,Telok Ayer,1.0,Raffles Place,73.0,Clarke Quay,7.0,Bayfront,23.0,Somerset,2.0,Outram Park,2.0,Tanjong Pagar,9.0,Bras Basah,2.0,Promenade,4.0,Bugis,4.0,Little India,2.0,unknown,54.0,Chinatown,9.0
+599,Clarke Quay,3.0,Orchard,24.0,Tanjong Pagar,1.0,Outram Park,5.0,Lavender,4.0,Bayfront,2.0,unknown,45.0,Chinatown,12.0,Tiong Bahru,7.0,Farrer Park,4.0,Little India,3.0,Somerset,52.0,Raffles Place,9.0,Newton,5.0,Dhoby Ghaut,97.0,Bugis,3.0,City Hall,24.0
+1264,Expo,55.0,unknown,135.0,Changi Airport,5.0,Tampines,2.0,Simei,48.0
+794,Buona Vista,4.0,Farrer Road,16.0,Holland Village,10.0,Commonwealth,8.0,Botanic Gardens,26.0,unknown,154.0
+1505,Punggol,19.0,unknown,9.0,Sengkang,1.0
+923,Tai Seng,2.0,unknown,20.0,Bartley,1.0,MacPherson,2.0,Paya Lebar,3.0,Eunos,2.0
+811,unknown,846.0,Tanah Merah,179.0,Tampines,31.0,Expo,103.0,Bedok,66.0,Simei,55.0
+1488,Kranji,38.0,unknown,120.0
+570,unknown,158.0,Dakota,16.0,Eunos,6.0,Aljunied,5.0,Paya Lebar,16.0,Kembangan,1.0,Stadium,6.0,Mountbatten,10.0
+488,Marina South Pier,5.0,unknown,4.0
+1460,unknown,6.0
+812,unknown,1.0,Orchard,1.0
+505,Tiong Bahru,8.0,Clarke Quay,14.0,Marina South Pier,10.0,Outram Park,20.0,Bras Basah,1.0,Bayfront,29.0,Promenade,14.0,Raffles Place,648.0,unknown,183.0,Telok Ayer,14.0,Chinatown,29.0,Marina Bay,27.0,Downtown,41.0,City Hall,66.0,Somerset,6.0,Esplanade,10.0,Bugis,9.0,Little India,15.0,Dhoby Ghaut,24.0,Tanjong Pagar,20.0,Nicoll Highway,1.0
+729,Commonwealth,5.0,Farrer Road,27.0,Botanic Gardens,45.0,Orchard,9.0,Holland Village,5.0,Queenstown,3.0,Buona Vista,2.0,unknown,44.0
+990,Boon Lay,26.0,unknown,78.0,Lakeside,15.0
+795,unknown,208.0,Holland Village,5.0,Commonwealth,12.0,Buona Vista,2.0,Botanic Gardens,175.0,Farrer Road,10.0
+1153,unknown,78.0,Choa Chu Kang,15.0
+700,Tanah Merah,6.0,unknown,44.0,Bedok,13.0,Kembangan,3.0
+1506,Punggol,21.0,unknown,10.0
+924,Eunos,1.0,unknown,5.0,Paya Lebar,2.0
+1489,Woodlands,32.0,Marsiling,3.0,Sembawang,8.0,Admiralty,101.0,unknown,193.0
+617,unknown,4.0
+813,Marymount,15.0,Caldecott,9.0,Newton,2.0,Novena,3.0,Toa Payoh,6.0,unknown,89.0,Braddell,2.0,Botanic Gardens,5.0,Bishan,8.0
+572,Newton,1.0,Somerset,66.0,Tiong Bahru,115.0,Novena,3.0,Raffles Place,40.0,Botanic Gardens,13.0,Redhill,7.0,Clarke Quay,6.0,unknown,336.0,Bugis,26.0,Farrer Park,15.0,Chinatown,19.0,Telok Ayer,2.0,Outram Park,14.0,Bras Basah,3.0,City Hall,72.0,Esplanade,6.0,Little India,19.0,Orchard,1085.0,Dhoby Ghaut,108.0
+925,unknown,42.0,Kembangan,4.0,Eunos,9.0,Bartley,3.0,Aljunied,3.0,Paya Lebar,4.0,Tai Seng,4.0
+796,Commonwealth,4.0,Holland Village,1.0,unknown,116.0,Farrer Road,2.0,Botanic Gardens,17.0,Buona Vista,2.0,Dover,1.0
+506,Promenade,35.0,Downtown,112.0,Marina Bay,140.0,Somerset,8.0,Outram Park,22.0,Nicoll Highway,2.0,Telok Ayer,14.0,Clarke Quay,29.0,Bugis,30.0,Raffles Place,539.0,Dhoby Ghaut,31.0,Bayfront,122.0,unknown,265.0,Marina South Pier,37.0,City Hall,78.0,Esplanade,26.0,Chinatown,51.0,Tanjong Pagar,41.0,Bras Basah,3.0
+991,unknown,45.0,Boon Lay,18.0,Lakeside,9.0
+701,unknown,3.0,Tanah Merah,1.0
+684,unknown,139.0,Clementi,12.0,Jurong East,93.0
+1042,Simei,5.0,unknown,16.0,Tampines,4.0
+1378,Punggol,13.0,Buangkok,2.0,unknown,9.0
+489,Outram Park,12.0,Clarke Quay,8.0,Chinatown,25.0,Tanjong Pagar,83.0,Marina Bay,96.0,Promenade,14.0,Telok Ayer,4.0,Raffles Place,136.0,Bayfront,60.0,Tiong Bahru,15.0,Marina South Pier,112.0,City Hall,47.0,Downtown,18.0,Esplanade,26.0,Dhoby Ghaut,33.0,Bras Basah,1.0,unknown,377.0
+460,Pasir Panjang,1.0,HarbourFront,19.0,unknown,293.0,Queenstown,47.0,Orchard,17.0,Telok Blangah,1.0,Tiong Bahru,24.0,Commonwealth,16.0,Redhill,81.0,Labrador Park,2.0
+1155,unknown,70.0
+1043,Tampines,1.0,Pasir Ris,1.0,Expo,3.0,Simei,4.0,unknown,13.0
+797,Kembangan,29.0,Aljunied,10.0,Eunos,118.0,Paya Lebar,26.0,Tai Seng,3.0,MacPherson,10.0,unknown,232.0
+1379,Sengkang,3.0,unknown,25.0,Punggol,38.0
+685,unknown,54.0,Commonwealth,10.0,Kent Ridge,1.0,Dover,14.0,Buona Vista,3.0,Holland Village,2.0,Clementi,18.0
+992,unknown,135.0,Tai Seng,10.0,Lorong Chuan,4.0,Potong Pasir,2.0,Kovan,17.0,Bartley,42.0,Serangoon,85.0,Hougang,5.0
+702,Buona Vista,23.0,Dover,12.0,Clementi,230.0,unknown,502.0
+507,Tiong Bahru,20.0,Marina Bay,1.0,Orchard,2.0,Somerset,1.0,HarbourFront,5.0,Tanjong Pagar,4.0,Raffles Place,11.0,Dhoby Ghaut,1.0,Outram Park,75.0,Bras Basah,3.0,unknown,26.0,Bayfront,2.0,City Hall,3.0,Redhill,4.0,Chinatown,7.0
+461,Redhill,6.0,Queenstown,5.0,unknown,31.0,Commonwealth,4.0,Tiong Bahru,3.0,HarbourFront,3.0
+926,Kembangan,1.0,unknown,2.0,Paya Lebar,1.0
+619,unknown,19.0
+1462,Sembawang,11.0,Admiralty,16.0,unknown,82.0
+814,one-north,3.0,Buona Vista,22.0,unknown,313.0,Dover,5.0,Clementi,131.0
+573,Dakota,2.0,Paya Lebar,7.0,Kallang,1.0,unknown,23.0,Mountbatten,4.0,Stadium,3.0,Aljunied,1.0
+1267,Choa Chu Kang,57.0,Bukit Gombak,2.0,unknown,162.0,Yew Tee,7.0
+1351,Sengkang,5.0,unknown,41.0
+815,unknown,185.0,Kent Ridge,2.0,Buona Vista,9.0,Clementi,68.0,one-north,1.0,Holland Village,1.0,Dover,8.0
+993,Hougang,34.0,Bartley,2.0,Serangoon,25.0,Potong Pasir,5.0,Tai Seng,4.0,Woodleigh,1.0,unknown,127.0,Kovan,8.0
+927,unknown,1.0,Potong Pasir,2.0
+798,Paya Lebar,68.0,Potong Pasir,1.0,MacPherson,25.0,Kembangan,7.0,unknown,140.0,Eunos,24.0,Mountbatten,2.0,Aljunied,11.0,Tai Seng,2.0,Woodleigh,1.0,Kallang,6.0,Dakota,1.0
+703,unknown,25.0,Dover,1.0,Clementi,27.0
+881,unknown,202.0,Tai Seng,146.0,Lorong Chuan,3.0,Aljunied,20.0,Serangoon,17.0,Eunos,12.0,MacPherson,4.0,Paya Lebar,21.0,Kovan,2.0,Bartley,11.0,Potong Pasir,6.0,Woodleigh,5.0
+1463,Sembawang,3.0,Admiralty,13.0,Woodlands,2.0,unknown,39.0
+508,Nicoll Highway,3.0,Somerset,4.0,Raffles Place,81.0,Tanjong Pagar,36.0,Little India,24.0,Chinatown,284.0,unknown,176.0,Downtown,8.0,Bras Basah,1.0,Esplanade,11.0,Clarke Quay,14.0,Orchard,12.0,Marina Bay,31.0,Dhoby Ghaut,19.0,Bayfront,50.0,Marina South Pier,9.0,City Hall,37.0,Tiong Bahru,10.0,Promenade,19.0,Outram Park,47.0,Bugis,24.0,Telok Ayer,37.0
+462,Little India,57.0,Esplanade,131.0,Marina Bay,192.0,Outram Park,53.0,Bugis,158.0,Orchard,98.0,Downtown,41.0,Somerset,33.0,City Hall,2962.0,Lavender,77.0,Telok Ayer,60.0,Bayfront,549.0,Tiong Bahru,40.0,Newton,5.0,Clarke Quay,223.0,Nicoll Highway,11.0,Farrer Park,77.0,Raffles Place,964.0,Promenade,215.0,Marina South Pier,35.0,Bras Basah,51.0,unknown,614.0,Dhoby Ghaut,183.0,Chinatown,99.0,Tanjong Pagar,41.0
+1268,Pasir Ris,54.0,unknown,114.0
+1509,unknown,151.0
+574,Mountbatten,3.0,unknown,37.0,Dakota,3.0,Aljunied,3.0,Lavender,1.0,Kallang,6.0,Paya Lebar,6.0
+1464,Sembawang,74.0,Woodlands,31.0,unknown,314.0,Admiralty,52.0
+687,Commonwealth,7.0,unknown,31.0,Dover,12.0,Buona Vista,6.0,Clementi,4.0,Farrer Road,1.0,Holland Village,3.0
+1045,Bukit Gombak,1.0,unknown,29.0,Bukit Batok,1.0
+799,Aljunied,1.0,unknown,16.0,Tai Seng,1.0,Eunos,2.0,Bartley,1.0,Mountbatten,1.0,Paya Lebar,11.0,MacPherson,10.0
+1352,Punggol,4.0,Buangkok,29.0,unknown,87.0,Sengkang,50.0,Hougang,7.0
+575,Dover,3.0,Buona Vista,13.0,Holland Village,9.0,Farrer Road,1.0,Commonwealth,3.0,unknown,41.0,Botanic Gardens,2.0
+463,Clarke Quay,12.0,Bras Basah,2.0,Dhoby Ghaut,11.0,Chinatown,9.0,Orchard,4.0,Outram Park,5.0,Newton,1.0,City Hall,2.0,Somerset,7.0,unknown,10.0,Raffles Place,1.0,Tiong Bahru,5.0,Promenade,1.0
+994,MacPherson,2.0,Paya Lebar,8.0,Potong Pasir,3.0,Bartley,36.0,unknown,189.0,Woodleigh,1.0,Tai Seng,39.0,Serangoon,64.0,Lorong Chuan,2.0,Kovan,4.0
+770,Braddell,32.0,Bishan,5.0,Caldecott,6.0,unknown,37.0,Toa Payoh,34.0,Novena,1.0
+1240,Pasir Ris,7.0,Changi Airport,1.0,unknown,29.0
+1157,Yew Tee,6.0,unknown,187.0,Bukit Gombak,5.0,Choa Chu Kang,27.0
+704,Bedok,13.0,Eunos,86.0,unknown,195.0,Dakota,10.0,Kembangan,16.0,Paya Lebar,22.0
+1269,unknown,20.0,Pasir Ris,14.0
+928,Serangoon,1.0,MacPherson,1.0,unknown,3.0,Potong Pasir,1.0
+509,Nicoll Highway,8.0,Bras Basah,10.0,City Hall,221.0,Marina South Pier,29.0,Esplanade,39.0,Bugis,64.0,Little India,37.0,Marina Bay,98.0,Chinatown,106.0,Somerset,28.0,Dhoby Ghaut,85.0,Outram Park,39.0,Downtown,92.0,Raffles Place,1576.0,Tiong Bahru,36.0,unknown,539.0,Tanjong Pagar,80.0,Promenade,58.0,Telok Ayer,50.0,Clarke Quay,50.0,Bayfront,128.0
+816,Jurong East,25.0,Clementi,38.0,unknown,135.0,Dover,1.0
+883,Woodleigh,7.0,Bartley,2.0,unknown,26.0,Lorong Chuan,1.0,Serangoon,12.0,Tai Seng,2.0,Aljunied,9.0,Kallang,3.0,Potong Pasir,3.0,Paya Lebar,2.0,Kovan,1.0
+995,unknown,30.0
+1241,unknown,42.0,Pasir Ris,14.0
+817,Expo,2.0,unknown,80.0
+929,Potong Pasir,1.0,Woodleigh,1.0
+688,Bedok,3.0,Tanah Merah,2.0,unknown,28.0
+705,Eunos,64.0,Paya Lebar,8.0,Bedok,17.0,unknown,135.0,Dakota,4.0,Kembangan,16.0
+1465,Admiralty,5.0,Sembawang,48.0,unknown,141.0
+1353,Buangkok,43.0,Sengkang,53.0,unknown,206.0,Hougang,10.0
+576,Raffles Place,171.0,Chinatown,128.0,Bayfront,104.0,Dhoby Ghaut,320.0,Lavender,139.0,Somerset,22.0,City Hall,108.0,Toa Payoh,25.0,Orchard,81.0,Telok Ayer,19.0,Esplanade,14.0,Promenade,36.0,Clarke Quay,95.0,Stadium,10.0,Bras Basah,24.0,Farrer Park,1266.0,Newton,7.0,Little India,3365.0,Kallang,32.0,Bugis,471.0,Novena,28.0,Nicoll Highway,7.0,Boon Keng,66.0,unknown,1220.0
+900,Lakeside,57.0,unknown,256.0,Bukit Batok,7.0,Chinese Garden,25.0,Jurong East,137.0
+464,HarbourFront,5.0,Raffles Place,17.0,Chinatown,22.0,Esplanade,1.0,Dhoby Ghaut,26.0,Tanjong Pagar,4.0,Clarke Quay,9.0,Orchard,45.0,Downtown,1.0,Somerset,15.0,Telok Ayer,2.0,Little India,4.0,Redhill,6.0,Newton,3.0,Outram Park,28.0,Queenstown,1.0,City Hall,32.0,Tiong Bahru,151.0,unknown,142.0
+1158,unknown,14.0,Choa Chu Kang,3.0
+1159,unknown,199.0,Yew Tee,3.0,Choa Chu Kang,28.0
+901,Bukit Batok,4.0,unknown,191.0,Lakeside,12.0,Chinese Garden,10.0,Jurong East,73.0
+772,Toa Payoh,3.0,Braddell,1.0,unknown,14.0,Botanic Gardens,2.0
+1047,unknown,37.0,Bukit Gombak,1.0,Bukit Batok,1.0
+996,Jurong East,41.0,unknown,151.0,Chinese Garden,34.0,Bukit Batok,17.0,Bukit Gombak,2.0,Lakeside,6.0
+884,unknown,31.0,Pioneer,1.0,Chinese Garden,14.0,Lakeside,16.0,Boon Lay,11.0
+818,unknown,2.0
+1130,unknown,7.0,Serangoon,10.0
+1466,unknown,79.0,Sembawang,35.0,Admiralty,1.0
+706,Aljunied,8.0,Kembangan,9.0,MacPherson,1.0,Eunos,62.0,Paya Lebar,27.0,unknown,74.0,Dakota,4.0
+1242,unknown,3.0
+465,Raffles Place,49.0,Telok Ayer,3.0,Promenade,44.0,Chinatown,31.0,Tiong Bahru,10.0,Clarke Quay,105.0,Bras Basah,1.0,Bugis,16.0,Downtown,3.0,Marina Bay,30.0,Esplanade,6.0,Farrer Park,21.0,Newton,1.0,Orchard,21.0,Dhoby Ghaut,50.0,Little India,25.0,Outram Park,12.0,Lavender,5.0,Nicoll Highway,5.0,City Hall,42.0,Bayfront,139.0,Somerset,12.0,Tanjong Pagar,9.0,unknown,137.0
+466,Raffles Place,46.0,Chinatown,102.0,Dhoby Ghaut,53.0,City Hall,69.0,Newton,2.0,Orchard,34.0,Esplanade,4.0,Telok Ayer,3.0,Tanjong Pagar,6.0,Nicoll Highway,2.0,unknown,217.0,Lavender,8.0,Bayfront,31.0,Bugis,21.0,Promenade,12.0,Downtown,2.0,Bras Basah,6.0,Marina Bay,12.0,Marina South Pier,4.0,Farrer Park,59.0,Outram Park,26.0,Tiong Bahru,13.0,Clarke Quay,371.0,Little India,73.0,Somerset,20.0
+707,MacPherson,1.0,Kembangan,1.0,unknown,63.0,Aljunied,2.0,Mountbatten,1.0,Eunos,32.0,Dakota,9.0,Paya Lebar,10.0
+885,unknown,1.0
+902,Boon Lay,5.0,Jurong East,22.0,unknown,81.0,Chinese Garden,10.0,Lakeside,32.0
+997,unknown,2.0
+819,Tanah Merah,11.0,Bedok,44.0,Kembangan,14.0,unknown,104.0
+661,Haw Par Villa,16.0,Clementi,71.0,one-north,1.0,Kent Ridge,3.0,Dover,4.0,unknown,129.0,Buona Vista,8.0
+1355,Buangkok,7.0,unknown,50.0,Sengkang,18.0
+1048,Bukit Batok,9.0,Bukit Gombak,2.0,unknown,106.0
+1467,Sembawang,10.0,unknown,18.0
+773,Chinese Garden,16.0,Bukit Batok,17.0,unknown,628.0,Jurong East,210.0,Clementi,75.0,Bukit Gombak,4.0
+1243,Ang Mo Kio,22.0,Yio Chu Kang,30.0,unknown,114.0
+467,Bras Basah,89.0,Dhoby Ghaut,314.0,Promenade,140.0,Marina Bay,102.0,Little India,173.0,Tanjong Pagar,48.0,Orchard,350.0,Bugis,270.0,Bayfront,244.0,City Hall,4439.0,Telok Ayer,13.0,Marina South Pier,41.0,Esplanade,266.0,Clarke Quay,65.0,Farrer Park,211.0,Somerset,125.0,Nicoll Highway,18.0,unknown,1013.0,Raffles Place,632.0,Tiong Bahru,82.0,Downtown,12.0,Outram Park,79.0,Stadium,35.0,Chinatown,124.0,Lavender,114.0
+886,Boon Lay,5.0,Chinese Garden,13.0,unknown,66.0,Pioneer,1.0,Lakeside,26.0
+550,Bugis,53.0,Raffles Place,6.0,Bayfront,8.0,Chinatown,6.0,Farrer Park,7.0,Somerset,2.0,Telok Ayer,2.0,Lavender,4.0,Marina Bay,5.0,Little India,3.0,Outram Park,7.0,Orchard,3.0,Stadium,2.0,unknown,26.0,Dhoby Ghaut,26.0,City Hall,32.0,Bras Basah,32.0,Esplanade,2.0,Clarke Quay,1.0,Nicoll Highway,1.0,Promenade,6.0,Novena,1.0
+579,Somerset,1.0,unknown,1.0,Little India,2.0
+1468,Sembawang,27.0,Admiralty,1.0,unknown,60.0
+662,Holland Village,7.0,unknown,176.0,Kent Ridge,10.0,Commonwealth,16.0,Farrer Road,1.0,Dover,15.0,Queenstown,4.0,Clementi,11.0,Buona Vista,90.0,one-north,20.0
+998,Lakeside,87.0,Bukit Gombak,1.0,Jurong East,122.0,Boon Lay,2.0,Chinese Garden,152.0,Bukit Batok,12.0,unknown,723.0
+903,Boon Lay,21.0,Pioneer,1.0,unknown,670.0,Jurong East,144.0,Lakeside,255.0,Chinese Garden,80.0
+1132,unknown,58.0,Bartley,1.0,Hougang,20.0,Serangoon,12.0,Kovan,42.0,Buangkok,1.0
+708,unknown,25.0,Clementi,9.0,Jurong East,2.0
+1356,unknown,179.0,Punggol,188.0,Buangkok,6.0,Sengkang,30.0
+1245,Yio Chu Kang,34.0,Ang Mo Kio,5.0,unknown,54.0
+970,Bukit Gombak,1.0,Bukit Batok,31.0,unknown,64.0,Jurong East,16.0,Chinese Garden,2.0
+551,Haw Par Villa,4.0,Clementi,5.0,Dover,2.0,unknown,17.0
+775,Tanah Merah,129.0,Simei,67.0,unknown,696.0,Bedok,46.0,Expo,161.0
+468,unknown,35.0,Kent Ridge,13.0,Haw Par Villa,5.0,Pasir Panjang,1.0,Buona Vista,5.0,Dover,4.0,Clementi,1.0
+709,Tai Seng,1.0,unknown,84.0,Dakota,3.0,Kallang,13.0,MacPherson,3.0,Mountbatten,2.0,Aljunied,12.0,Eunos,32.0,Kembangan,4.0,Paya Lebar,125.0,Stadium,4.0
+663,Holland Village,15.0,Orchard,36.0,Botanic Gardens,405.0,unknown,375.0,Farrer Road,7.0,Novena,2.0,Commonwealth,10.0,Newton,4.0
+887,Serangoon,7.0,Potong Pasir,2.0,Paya Lebar,8.0,Eunos,5.0,Bartley,1.0,Tai Seng,5.0,unknown,50.0,Kovan,2.0,Aljunied,6.0
+1357,Punggol,109.0,Sengkang,40.0,Buangkok,5.0,unknown,169.0
+999,Jurong East,126.0,Chinese Garden,91.0,unknown,310.0,Lakeside,134.0,Bukit Batok,11.0
+469,unknown,27.0,Commonwealth,1.0,Haw Par Villa,13.0
+664,Nicoll Highway,1.0,Dhoby Ghaut,67.0,Lavender,10.0,Farrer Park,51.0,Little India,35.0,Boon Keng,5.0,Caldecott,5.0,Potong Pasir,1.0,Newton,9.0,Novena,430.0,City Hall,82.0,Somerset,42.0,Bugis,45.0,Toa Payoh,66.0,Orchard,156.0,Bras Basah,4.0,Kallang,8.0,unknown,441.0,Braddell,7.0
+1022,unknown,121.0
+1246,unknown,255.0,Ang Mo Kio,36.0,Yio Chu Kang,168.0
+888,Woodleigh,1.0,Kovan,4.0,Aljunied,19.0,Tai Seng,13.0,Paya Lebar,14.0,Potong Pasir,2.0,MacPherson,2.0,Bartley,4.0,Eunos,26.0,Serangoon,19.0,unknown,135.0
+971,unknown,83.0,Tai Seng,7.0,Potong Pasir,11.0,Woodleigh,3.0,Bartley,22.0,Serangoon,74.0
+905,Lorong Chuan,1.0,Novena,5.0,Bishan,5.0,Caldecott,46.0,Toa Payoh,15.0,unknown,394.0,Marymount,13.0,Braddell,18.0
+665,Boon Keng,414.0,Farrer Park,342.0,City Hall,85.0,Esplanade,6.0,Aljunied,41.0,Little India,182.0,Mountbatten,2.0,Braddell,11.0,Bugis,89.0,Dhoby Ghaut,135.0,Lavender,84.0,Stadium,9.0,Woodleigh,6.0,Toa Payoh,30.0,unknown,1015.0,Kallang,44.0,Novena,39.0,Newton,2.0,Nicoll Highway,11.0,Promenade,23.0,Bras Basah,10.0,Potong Pasir,45.0
+860,unknown,62.0,Aljunied,5.0,Little India,3.0,Lavender,12.0,Kallang,17.0,Paya Lebar,2.0,Bugis,7.0,Farrer Park,3.0,Boon Keng,15.0,Potong Pasir,12.0
+1135,Braddell,5.0,Ang Mo Kio,148.0,Bishan,56.0,Marymount,1.0,Serangoon,80.0,Woodleigh,1.0,Lorong Chuan,14.0,unknown,483.0,Yio Chu Kang,30.0
+889,Marymount,4.0,Boon Keng,1.0,Lorong Chuan,18.0,Bishan,39.0,unknown,227.0,Caldecott,4.0,Potong Pasir,9.0,Braddell,24.0,Serangoon,37.0,Toa Payoh,87.0,Novena,8.0,Bartley,3.0
+1442,unknown,20.0,Sembawang,3.0,Admiralty,2.0,Yishun,2.0
+553,Dover,2.0,Pasir Panjang,1.0,Kent Ridge,42.0,unknown,47.0,Holland Village,2.0,Buona Vista,7.0,Haw Par Villa,3.0,one-north,1.0,Commonwealth,3.0
+1023,unknown,18.0
+906,Novena,6.0,Caldecott,2.0,Woodleigh,1.0,Braddell,85.0,unknown,72.0,Bishan,6.0,Toa Payoh,21.0
+1247,unknown,59.0,Yio Chu Kang,11.0
+1359,unknown,94.0,Yew Tee,44.0,Choa Chu Kang,5.0,Kranji,4.0
+442,Clarke Quay,5.0,City Hall,12.0,Promenade,5.0,Bras Basah,1.0,Chinatown,30.0,Bayfront,49.0,Telok Ayer,6.0,Bugis,12.0,Marina South Pier,1.0,Downtown,67.0,Raffles Place,43.0,Tanjong Pagar,4.0,Marina Bay,9.0,unknown,68.0,Esplanade,5.0
+861,Aljunied,10.0,MacPherson,1.0,Lavender,11.0,Bartley,1.0,Little India,6.0,Toa Payoh,12.0,Boon Keng,6.0,Farrer Park,2.0,Potong Pasir,19.0,Bugis,11.0,Stadium,1.0,unknown,80.0,Mountbatten,2.0,Kallang,35.0,Paya Lebar,6.0,Serangoon,2.0
+554,Kent Ridge,15.0,Dover,8.0,Commonwealth,5.0,Holland Village,1.0,one-north,4.0,Buona Vista,10.0,unknown,67.0,Haw Par Villa,3.0,Pasir Panjang,1.0
+1090,Yew Tee,1.0,Bukit Gombak,2.0,Choa Chu Kang,15.0,unknown,55.0
+778,unknown,32.0
+1331,Lorong Chuan,2.0,Ang Mo Kio,25.0,Buangkok,7.0,Kovan,1.0,Yio Chu Kang,11.0,unknown,101.0,Hougang,5.0
+1248,Pasir Ris,26.0,unknown,45.0
+973,Lakeside,88.0,Pioneer,4.0,unknown,324.0,Joo Koon,1.0,Boon Lay,66.0
+666,Lakeside,9.0,unknown,31.0,Boon Lay,5.0
+1136,Bishan,18.0,Marymount,1.0,unknown,57.0,Yio Chu Kang,10.0,Ang Mo Kio,51.0
+907,unknown,1.0
+443,Esplanade,20.0,Marina South Pier,16.0,unknown,152.0,City Hall,27.0,Tanjong Pagar,12.0,Stadium,29.0,Bayfront,353.0,Nicoll Highway,3.0,Marina Bay,88.0,Clarke Quay,14.0,Downtown,3.0,Raffles Place,93.0,Bugis,17.0,Telok Ayer,2.0,Promenade,142.0,Bras Basah,2.0
+1091,Bukit Gombak,3.0,unknown,158.0,Choa Chu Kang,62.0,Yew Tee,8.0
+862,unknown,283.0,Boon Lay,54.0,Pioneer,5.0
+1249,Serangoon,31.0,Buangkok,4.0,Lorong Chuan,1.0,Kovan,31.0,Sengkang,3.0,Hougang,49.0,unknown,135.0
+750,Tiong Bahru,11.0,unknown,106.0,Farrer Road,2.0,Commonwealth,4.0,Queenstown,6.0,Holland Village,3.0,Somerset,1.0,Botanic Gardens,84.0,Orchard,47.0,Redhill,10.0,Newton,2.0
+974,Boon Lay,67.0,Pioneer,23.0,Joo Koon,1.0,Lakeside,63.0,unknown,383.0
+1332,unknown,2.0,Bukit Gombak,1.0,Bukit Batok,1.0
+1220,Buangkok,20.0,Punggol,29.0,Sengkang,89.0,unknown,89.0,Hougang,3.0
+1137,Bishan,6.0,Yio Chu Kang,2.0,Lorong Chuan,3.0,unknown,27.0,Ang Mo Kio,14.0,Serangoon,6.0
+908,Lorong Chuan,1.0,unknown,375.0,Woodleigh,2.0,Toa Payoh,47.0,Bishan,33.0,Marymount,2.0,Novena,16.0,Braddell,179.0,Caldecott,10.0,Boon Keng,2.0
+1444,Yishun,4.0,Sembawang,13.0,unknown,58.0
+975,unknown,1.0,Kembangan,1.0
+1092,Choa Chu Kang,16.0,unknown,39.0
+1333,unknown,8.0,Choa Chu Kang,2.0
+1221,Sengkang,8.0,unknown,6.0,Punggol,2.0
+1138,Ang Mo Kio,33.0,Bishan,8.0,Yio Chu Kang,3.0,unknown,31.0,Marymount,1.0
+556,Bras Basah,3.0,Raffles Place,4.0,Somerset,1.0,Aljunied,2.0,Dhoby Ghaut,3.0,Esplanade,7.0,Stadium,18.0,Bayfront,10.0,Chinatown,4.0,Clarke Quay,1.0,Mountbatten,2.0,Little India,6.0,Kallang,2.0,Promenade,26.0,unknown,52.0,Lavender,8.0,Nicoll Highway,76.0,City Hall,5.0,Bugis,7.0,Farrer Park,5.0,Marina Bay,2.0
+668,Lakeside,2.0,unknown,9.0
+751,Newton,67.0,Novena,71.0,Somerset,14.0,City Hall,30.0,Toa Payoh,17.0,Nicoll Highway,3.0,Bras Basah,5.0,Lavender,11.0,Farrer Park,54.0,Bugis,100.0,Orchard,52.0,Clarke Quay,6.0,unknown,267.0,Boon Keng,8.0,Little India,76.0,Braddell,3.0,Dhoby Ghaut,21.0,Caldecott,1.0,Esplanade,5.0
+909,unknown,2.0
+557,Tiong Bahru,12.0,Orchard,83.0,unknown,42.0,Somerset,4.0,Clarke Quay,1.0,City Hall,5.0,Outram Park,1.0,Chinatown,2.0,Bugis,4.0,Dhoby Ghaut,18.0,Farrer Park,1.0,Newton,7.0,Novena,4.0
+1027,Tampines,63.0,Pasir Ris,26.0,Simei,28.0,unknown,194.0
+1093,Yio Chu Kang,332.0,Ang Mo Kio,101.0,unknown,1174.0
+1222,Sengkang,20.0,Buangkok,10.0,Punggol,2.0,unknown,20.0
+669,Stadium,48.0,MacPherson,21.0,Paya Lebar,404.0,Eunos,154.0,unknown,926.0,Tai Seng,12.0,Kembangan,15.0,Kallang,50.0,Mountbatten,21.0,Potong Pasir,2.0,Aljunied,82.0,Bartley,6.0,Dakota,26.0
+752,Lavender,4.0,Boon Keng,2.0,Caldecott,1.0,Somerset,3.0,Farrer Park,3.0,Toa Payoh,11.0,Botanic Gardens,1.0,Dhoby Ghaut,4.0,Orchard,35.0,Newton,20.0,unknown,66.0,Novena,37.0,Bras Basah,1.0,Little India,1.0,Bugis,16.0
+1446,unknown,109.0,Kranji,11.0,Marsiling,14.0,Woodlands,6.0
+976,Tanah Merah,2.0,Simei,3.0,Kembangan,21.0,Bedok,35.0,unknown,78.0,Tampines,7.0
+864,Aljunied,27.0,Bedok,55.0,MacPherson,1.0,Dakota,5.0,unknown,677.0,Kembangan,309.0,Eunos,199.0,Tai Seng,1.0,Paya Lebar,34.0
+640,Boon Lay,1.0,unknown,1.0
+1139,Marymount,11.0,Ang Mo Kio,47.0,unknown,88.0,Yio Chu Kang,14.0,Bishan,30.0
+977,Eunos,12.0,Kembangan,4.0,unknown,54.0,Bedok,8.0
+1111,Jurong East,1.0,Bukit Batok,1.0,unknown,2.0,Chinese Garden,5.0
+865,unknown,26.0
+753,Boon Lay,5.0,unknown,28.0
+1028,unknown,3.0,Pasir Ris,2.0,Tampines,2.0
+1223,Hougang,2.0,Punggol,5.0,Buangkok,51.0,unknown,71.0,Sengkang,47.0
+1094,unknown,352.0,Yio Chu Kang,195.0,Ang Mo Kio,23.0
+558,Promenade,432.0,City Hall,215.0,Raffles Place,596.0,Stadium,663.0,Bayfront,811.0,Lavender,84.0,Boon Keng,11.0,Mountbatten,20.0,unknown,1012.0,Bugis,80.0,Little India,71.0,Downtown,28.0,Kallang,95.0,Aljunied,25.0,Bras Basah,12.0,Esplanade,70.0,Farrer Park,41.0,Nicoll Highway,74.0,Dhoby Ghaut,107.0,Dakota,17.0
+1447,Woodlands,10.0,unknown,93.0,Marsiling,9.0,Kranji,7.0
+1335,Lorong Chuan,8.0,Kovan,12.0,Buangkok,4.0,unknown,176.0,Serangoon,75.0,Ang Mo Kio,57.0,Hougang,9.0
+530,unknown,77.0
+1448,Woodlands,12.0,Marsiling,3.0,Kranji,4.0,unknown,52.0
+754,Boon Lay,3.0,unknown,8.0
+1000,Botanic Gardens,7.0,unknown,95.0
+559,Kallang,13.0,Aljunied,11.0,Mountbatten,28.0,Nicoll Highway,12.0,unknown,558.0,Paya Lebar,7.0,Promenade,82.0,Lavender,9.0,Dakota,6.0,Stadium,35.0
+447,Redhill,2.0,HarbourFront,1.0,unknown,4.0,Telok Blangah,1.0
+978,Kembangan,3.0,Tanah Merah,2.0,unknown,47.0,Eunos,7.0,Tampines,6.0,Bedok,12.0
+1029,Expo,10.0,Pasir Ris,11.0,Tampines,21.0,unknown,90.0,Simei,15.0
+1224,Buangkok,8.0,Hougang,2.0,Sengkang,76.0,Punggol,8.0,unknown,76.0
+1336,Changi Airport,2.0,unknown,31.0
+1112,Hougang,1.0,Serangoon,3.0,Kovan,2.0,unknown,7.0,Tai Seng,1.0,Bartley,1.0
+1531,Promenade,122.0,Kallang,14.0,Dakota,3.0,Marina Bay,88.0,City Hall,55.0,Esplanade,11.0,Bras Basah,3.0,Bayfront,247.0,Mountbatten,9.0,Bugis,33.0,Downtown,6.0,Raffles Place,113.0,Stadium,76.0,Nicoll Highway,6.0,Lavender,17.0,unknown,398.0,Marina South Pier,35.0,Telok Ayer,5.0,Clarke Quay,15.0
+642,unknown,1.0
+1113,Kovan,1.0,unknown,60.0,Buangkok,1.0
+979,unknown,83.0,Bukit Batok,6.0,Jurong East,4.0
+1001,Toa Payoh,9.0,Newton,4.0,Novena,3.0,Botanic Gardens,8.0,Caldecott,2.0,Orchard,42.0,Braddell,2.0,unknown,149.0,Farrer Road,1.0
+643,unknown,14.0
+531,Telok Blangah,12.0,Labrador Park,3.0,HarbourFront,1790.0,unknown,962.0
+950,unknown,38.0,Simei,18.0,Tanah Merah,5.0,Expo,13.0,Tampines,2.0
+1532,Yishun,149.0,unknown,276.0,Khatib,17.0,Sembawang,3.0
+448,unknown,62.0,Haw Par Villa,4.0,Pasir Panjang,19.0,Kent Ridge,1.0,Commonwealth,3.0
+1337,Pasir Ris,84.0,unknown,253.0,Simei,42.0,Tampines,26.0
+1096,Boon Lay,3.0,unknown,5.0
+1225,Sengkang,85.0,Punggol,10.0,Hougang,20.0,Buangkok,114.0,unknown,181.0
+1114,unknown,32.0,Kovan,1.0,Kembangan,1.0
+532,unknown,64.0
+1002,Clementi,5.0,unknown,53.0,Dover,1.0
+1292,unknown,131.0
+1338,Pasir Ris,17.0,Tampines,8.0,unknown,53.0
+644,unknown,12.0
+868,MacPherson,3.0,Bedok,12.0,unknown,273.0,Paya Lebar,18.0,Eunos,127.0,Kembangan,26.0
+449,HarbourFront,2.0,Labrador Park,2.0,Commonwealth,1.0,unknown,6.0
+420,Marina South Pier,8.0,Chinatown,1.0,Marina Bay,3.0,unknown,8.0,Outram Park,2.0,Tanjong Pagar,3.0,Raffles Place,8.0,Downtown,1.0,City Hall,1.0
+1533,unknown,98.0,Yishun,29.0,Khatib,5.0,Sembawang,4.0
+1421,Hougang,147.0,Sengkang,5.0,Bartley,1.0,Kovan,10.0,Serangoon,26.0,unknown,128.0,Buangkok,1.0
+1180,Tanah Merah,5.0,Expo,1.0,Tampines,5.0,Pasir Ris,1.0,Simei,3.0,unknown,13.0
+756,unknown,31.0,Joo Koon,1.0
+951,unknown,205.0,Simei,29.0,Expo,170.0,Tampines,1.0,Tanah Merah,39.0
+840,Newton,4.0,Novena,59.0,Potong Pasir,5.0,Boon Keng,16.0,unknown,205.0,Bishan,8.0,Braddell,9.0,Little India,13.0,Bugis,17.0,Caldecott,5.0,Farrer Park,18.0,Toa Payoh,131.0,Lavender,19.0,Marymount,2.0,Kallang,9.0
+757,unknown,1.0
+1534,Sembawang,1.0,Khatib,2.0,unknown,36.0,Yishun,6.0
+421,Marina South Pier,4.0,unknown,2.0,Raffles Place,1.0
+1181,unknown,1279.0,Potong Pasir,33.0,Serangoon,1133.0,Woodleigh,7.0,Lorong Chuan,21.0,Bartley,11.0,Tai Seng,25.0,Bishan,27.0,Kovan,49.0
+1310,unknown,154.0,Simei,25.0,Tampines,27.0,Pasir Ris,26.0
+1115,Lakeside,23.0,Chinese Garden,10.0,Boon Lay,3.0,unknown,59.0,Jurong East,11.0
+869,Bedok,6.0,unknown,111.0,MacPherson,5.0,Paya Lebar,10.0,Eunos,65.0,Tai Seng,2.0,Kembangan,12.0
+1339,Tampines,14.0,unknown,151.0,Pasir Ris,87.0
+1003,Dover,3.0,Buona Vista,8.0,Clementi,45.0,unknown,113.0
+952,Expo,89.0,Tampines,2.0,unknown,136.0,Simei,8.0,Tanah Merah,34.0
+1227,unknown,5.0,Yio Chu Kang,1.0
+1070,Potong Pasir,1.0,Marymount,1.0,Bishan,4.0,Little India,10.0,Boon Keng,4.0,Caldecott,25.0,unknown,136.0,Farrer Park,5.0,Newton,1.0,Braddell,20.0,Toa Payoh,121.0,Novena,14.0
+422,Tiong Bahru,4.0,unknown,33.0,Outram Park,11.0,Raffles Place,2.0,HarbourFront,18.0,Tanjong Pagar,7.0,Chinatown,6.0
+1182,Hougang,4.0,Kovan,9.0,Serangoon,503.0,Bartley,4.0,unknown,351.0,Lorong Chuan,6.0,Woodleigh,1.0,Bishan,16.0,Potong Pasir,15.0
+1294,Punggol,35.0,Buangkok,1.0,Sengkang,5.0,unknown,25.0
+1311,Simei,12.0,Tampines,13.0,Pasir Ris,28.0,unknown,77.0
+1423,Marymount,7.0,Yio Chu Kang,1.0,Ang Mo Kio,13.0,unknown,35.0
+953,unknown,11.0,Expo,3.0,Changi Airport,3.0,Simei,1.0
+534,Chinatown,1.0,Raffles Place,7.0,unknown,8.0,Telok Ayer,5.0,Promenade,1.0,Downtown,6.0,Tanjong Pagar,2.0,Marina Bay,2.0,Bayfront,2.0,Bugis,3.0,Esplanade,1.0,Dhoby Ghaut,1.0
+1535,Sembawang,1.0,Khatib,1.0,Yishun,9.0,unknown,40.0
+646,unknown,24.0
+841,unknown,24.0
+1005,unknown,1.0
+423,Bayfront,14.0,Downtown,3.0,Marina Bay,7.0,City Hall,11.0,unknown,119.0,Telok Ayer,2.0,Tiong Bahru,3.0,HarbourFront,91.0,Tanjong Pagar,32.0,Chinatown,8.0,Marina South Pier,31.0,Outram Park,17.0,Raffles Place,21.0,Clarke Quay,1.0
+759,unknown,38.0,Pioneer,1.0
+1536,unknown,309.0,Yishun,106.0,Khatib,15.0,Sembawang,18.0
+954,unknown,5.0
+842,Holland Village,14.0,Farrer Road,3.0,Buona Vista,9.0,Botanic Gardens,4.0,Commonwealth,6.0,Dover,3.0,unknown,65.0
+1295,Buangkok,7.0,unknown,72.0,Punggol,72.0,Sengkang,9.0
+730,Queenstown,12.0,Somerset,8.0,Botanic Gardens,40.0,Farrer Road,2.0,Redhill,4.0,unknown,83.0,Commonwealth,8.0,Buona Vista,2.0,Orchard,37.0,Tiong Bahru,9.0,Holland Village,11.0
+1312,Pasir Ris,21.0,Tampines,5.0,unknown,55.0
+1200,Simei,8.0,Tampines,24.0,unknown,57.0,Pasir Ris,1.0
+1424,unknown,1.0
+1183,Serangoon,153.0,Bartley,1.0,Braddell,4.0,Ang Mo Kio,18.0,Woodleigh,4.0,Bishan,25.0,Lorong Chuan,84.0,unknown,262.0,Potong Pasir,17.0,Kovan,4.0
+1490,Woodlands,48.0,unknown,1158.0,Sembawang,43.0,Admiralty,280.0
+1071,Lakeside,29.0,Jurong East,451.0,Chinese Garden,15.0,Bukit Batok,26.0,Bukit Gombak,5.0,unknown,829.0
+1425,unknown,283.0,Woodlands,163.0,Marsiling,5.0,Admiralty,35.0,Kranji,7.0
+1296,unknown,78.0,Buangkok,5.0,Punggol,73.0,Sengkang,15.0
+1537,unknown,78.0
+731,Queenstown,8.0,Redhill,5.0,Holland Village,6.0,Farrer Road,10.0,Buona Vista,6.0,unknown,424.0,Botanic Gardens,18.0,Commonwealth,51.0,Kent Ridge,1.0
+1006,unknown,4.0
+955,Bedok,14.0,unknown,63.0,Tampines,15.0,Tanah Merah,5.0,Simei,7.0
+1072,Bukit Batok,2.0,unknown,28.0,Jurong East,34.0,Bukit Gombak,1.0
+648,unknown,12.0
+1201,Simei,9.0,Tampines,56.0,Tanah Merah,14.0,unknown,95.0,Bedok,7.0
+1313,Pasir Ris,44.0,Tampines,9.0,unknown,91.0
+424,Redhill,3.0,Labrador Park,1.0,unknown,87.0,Pasir Panjang,1.0,Telok Blangah,15.0,HarbourFront,95.0
+620,unknown,28.0
+1119,unknown,125.0
+1314,Pasir Ris,14.0,unknown,26.0,Tampines,3.0
+649,Queenstown,3.0,Holland Village,2.0,Clementi,3.0,unknown,60.0,Dover,3.0,Commonwealth,9.0,one-north,2.0,Buona Vista,44.0
+425,Labrador Park,1.0,Redhill,1.0,unknown,22.0,HarbourFront,20.0
+1492,unknown,19.0
+844,Buona Vista,8.0,Commonwealth,6.0,Queenstown,3.0,Farrer Road,4.0,Dover,1.0,unknown,119.0,Holland Village,67.0,one-north,1.0,Kent Ridge,1.0,Botanic Gardens,16.0
+1202,Tanah Merah,7.0,Tampines,21.0,Simei,4.0,unknown,26.0
+1297,Punggol,145.0,Buangkok,8.0,Sengkang,10.0,unknown,124.0
+1073,Lorong Chuan,6.0,Kovan,21.0,unknown,144.0,Bartley,1.0,Ang Mo Kio,29.0,Hougang,12.0,Serangoon,102.0
+956,unknown,321.0,Tanah Merah,34.0,Tampines,10.0,Expo,112.0,Simei,81.0
+1008,unknown,42.0,Paya Lebar,3.0,Aljunied,13.0,Serangoon,1.0,MacPherson,9.0,Boon Keng,2.0,Potong Pasir,4.0,Tai Seng,10.0,Eunos,1.0
+1203,unknown,46.0
+1315,unknown,44.0,Pasir Ris,22.0,Tampines,1.0,Simei,8.0
+426,Telok Blangah,3.0,HarbourFront,11.0,Pasir Panjang,1.0,unknown,23.0,Labrador Park,5.0
+1427,Khatib,3.0,Admiralty,1.0,unknown,31.0,Yishun,6.0,Sembawang,2.0
+1381,unknown,29.0,Sengkang,6.0,Buangkok,3.0,Punggol,41.0
+1298,Buangkok,27.0,Sengkang,39.0,Punggol,404.0,unknown,431.0
+733,Farrer Road,2.0,Tiong Bahru,1.0,Orchard,13.0,Botanic Gardens,2.0,Commonwealth,5.0,Redhill,9.0,Buona Vista,1.0,Somerset,2.0,unknown,21.0
+1186,unknown,84.0,Pasir Ris,6.0,Expo,14.0,Simei,19.0,Tampines,27.0
+1539,Yishun,3.0,Sembawang,62.0,unknown,154.0
+957,Simei,89.0,unknown,187.0,Expo,18.0,Tanah Merah,14.0,Tampines,9.0
+492,City Hall,38.0,Esplanade,12.0,Chinatown,18.0,Outram Park,10.0,unknown,264.0,Raffles Place,180.0,Tanjong Pagar,46.0,Downtown,7.0,Marina Bay,62.0,Bayfront,48.0,Marina South Pier,135.0,Promenade,8.0,Clarke Quay,2.0,Telok Ayer,4.0
+1074,Hougang,1.0,unknown,81.0,Bishan,3.0,Ang Mo Kio,8.0,Lorong Chuan,7.0,Serangoon,69.0,Kovan,1.0
+845,MacPherson,1.0,Paya Lebar,15.0,Kembangan,17.0,unknown,201.0,Mountbatten,1.0,Eunos,81.0,Aljunied,10.0
+1510,Yishun,1.0,unknown,3.0
+1494,Khatib,20.0,Yishun,9.0,unknown,74.0
+1511,Khatib,13.0,Yishun,68.0,unknown,171.0
+1187,Simei,20.0,unknown,54.0,Tampines,9.0,Expo,7.0,Pasir Ris,3.0
+510,Redhill,1.0,unknown,6.0,Tiong Bahru,1.0,Outram Park,1.0,Commonwealth,1.0
+734,City Hall,4.0,Esplanade,1.0,Toa Payoh,2.0,Dhoby Ghaut,8.0,unknown,37.0,Orchard,46.0,Somerset,8.0,Newton,24.0,Little India,2.0,Bugis,4.0,Outram Park,1.0,Novena,10.0,Tiong Bahru,5.0,Boon Keng,1.0,Chinatown,2.0,Farrer Park,4.0
+1009,unknown,20.0,Eunos,3.0,Lavender,1.0,Aljunied,11.0,Kallang,1.0,Serangoon,1.0
+1270,unknown,184.0,Yew Tee,39.0,Choa Chu Kang,26.0
+1316,unknown,54.0,Pasir Ris,4.0,Tampines,13.0
+958,Tampines,23.0,Simei,197.0,Tanah Merah,54.0,unknown,456.0,Expo,59.0
+493,City Hall,1.0,unknown,2.0,Promenade,1.0,Raffles Place,5.0,Marina Bay,1.0,Tanjong Pagar,9.0
+846,Aljunied,29.0,Tai Seng,1.0,Mountbatten,4.0,Dakota,4.0,unknown,551.0,Kembangan,30.0,MacPherson,2.0,Paya Lebar,51.0,Eunos,264.0
+1382,Khatib,17.0,unknown,264.0
+622,unknown,99.0
+735,Buona Vista,1.0,Haw Par Villa,6.0,Clementi,15.0,Dover,2.0,Kent Ridge,1.0,unknown,45.0
+428,Bayfront,2.0,Promenade,2.0,Marina South Pier,8.0,Raffles Place,4.0,Outram Park,1.0,Esplanade,2.0,Tanjong Pagar,1.0,Marina Bay,3.0,unknown,16.0,City Hall,1.0
+623,unknown,20.0
+1512,Punggol,135.0,unknown,75.0
+494,Redhill,6.0,HarbourFront,30.0,Telok Blangah,20.0,unknown,81.0,Pasir Panjang,1.0,Tiong Bahru,5.0
+1188,Pasir Ris,1.0,unknown,56.0,Expo,5.0,Tampines,8.0,Simei,12.0,Tanah Merah,6.0
+1400,unknown,77.0,Bukit Gombak,3.0,Yew Tee,4.0,Choa Chu Kang,18.0
+1429,Khatib,7.0,Sembawang,6.0,Yishun,67.0,unknown,192.0
+511,Labrador Park,2.0,Queenstown,9.0,Tiong Bahru,1.0,unknown,27.0,one-north,1.0,HarbourFront,4.0,Redhill,2.0,Commonwealth,2.0
+1271,Choa Chu Kang,20.0,Yew Tee,66.0,unknown,189.0
+847,Tanah Merah,23.0,Expo,4.0,Simei,1.0,unknown,55.0,Bedok,15.0,Kembangan,3.0
+736,Clementi,99.0,unknown,222.0,Dover,8.0
+1272,Sengkang,157.0,unknown,198.0,Hougang,10.0,Punggol,36.0,Buangkok,18.0
+1206,Tampines,6.0,unknown,37.0,Pasir Ris,13.0
+400,Kallang,3.0,Raffles Place,140.0,Outram Park,20.0,Bugis,34.0,Farrer Park,39.0,Telok Ayer,4.0,Stadium,24.0,Little India,20.0,Downtown,2.0,Nicoll Highway,8.0,Dhoby Ghaut,71.0,Marina South Pier,8.0,Clarke Quay,24.0,Promenade,114.0,Somerset,17.0,unknown,162.0,Bras Basah,35.0,Bayfront,48.0,Esplanade,249.0,Chinatown,16.0,Newton,2.0,Orchard,27.0,Lavender,20.0,Boon Keng,3.0,Tanjong Pagar,7.0,City Hall,663.0,Marina Bay,22.0
+1401,Bukit Gombak,2.0,unknown,67.0,Choa Chu Kang,7.0
+848,unknown,158.0,Bedok,4.0,Tanah Merah,33.0,Simei,5.0,Expo,12.0
+624,Farrer Road,3.0,Dover,1.0,unknown,27.0,Queenstown,1.0,Buona Vista,1.0,Holland Village,17.0,Commonwealth,11.0
+1513,Kranji,34.0,Marsiling,3.0,Woodlands,9.0,unknown,179.0
+1077,Potong Pasir,8.0,unknown,122.0,Ang Mo Kio,13.0,Lorong Chuan,8.0,Serangoon,91.0,Kovan,12.0,Bishan,7.0,Bartley,1.0,Hougang,2.0
+429,Marina Bay,8.0,Tanjong Pagar,8.0,unknown,99.0,Bayfront,6.0,Outram Park,2.0,Downtown,1.0,Chinatown,3.0,Clarke Quay,1.0,City Hall,9.0,Marina South Pier,73.0,Raffles Place,23.0,Promenade,5.0
+512,Outram Park,830.0,Chinatown,665.0,unknown,802.0,HarbourFront,290.0,Downtown,2.0,Redhill,26.0,Tiong Bahru,60.0,Telok Ayer,23.0,Marina South Pier,13.0,Little India,320.0,City Hall,172.0,Esplanade,7.0,Orchard,57.0,Somerset,12.0,Dhoby Ghaut,78.0,Bugis,133.0,Tanjong Pagar,57.0,Raffles Place,259.0,Bras Basah,6.0,Bayfront,118.0,Promenade,15.0,Clarke Quay,34.0,Marina Bay,26.0
+1189,Pasir Ris,3.0,Tampines,14.0,unknown,184.0,Expo,12.0,Simei,54.0
+1160,Yew Tee,1.0,unknown,46.0,Choa Chu Kang,8.0
+1496,unknown,8.0,Woodlands,1.0
+690,Tanah Merah,16.0,unknown,37.0,Bedok,11.0,Expo,1.0
+495,Redhill,3.0,Telok Blangah,11.0,HarbourFront,21.0,unknown,28.0,Pasir Panjang,2.0,Labrador Park,1.0
+931,unknown,42.0,Clementi,8.0
+691,unknown,106.0,Tanah Merah,43.0,Expo,4.0,Simei,5.0,Bedok,17.0
+401,Bugis,1.0
+1161,Choa Chu Kang,3.0,unknown,31.0
+625,unknown,114.0,Bras Basah,1.0,Somerset,3.0,Novena,6.0,Redhill,1.0,Tiong Bahru,24.0,Dhoby Ghaut,27.0,Farrer Park,7.0,Newton,6.0,Orchard,178.0,Botanic Gardens,7.0,Little India,6.0
+1078,unknown,965.0,Changi Airport,81.0
+1497,Yishun,5.0,Khatib,25.0,unknown,254.0,Yio Chu Kang,80.0
+1514,unknown,10.0
+1207,unknown,92.0,Tampines,17.0,Pasir Ris,23.0
+849,Expo,2.0,Kembangan,1.0,unknown,12.0,Tanah Merah,3.0,Bedok,2.0
+513,unknown,3.0,Tiong Bahru,4.0,Redhill,2.0,Orchard,1.0
+1402,unknown,76.0,Bukit Gombak,3.0
+1273,Buangkok,8.0,Hougang,15.0,Sengkang,48.0,unknown,92.0,Punggol,11.0
+402,Stadium,39.0,Lavender,56.0,Bras Basah,86.0,Dhoby Ghaut,165.0,Nicoll Highway,7.0,Downtown,7.0,Somerset,44.0,Outram Park,53.0,Raffles Place,207.0,Orchard,102.0,Bugis,166.0,Tanjong Pagar,28.0,Esplanade,154.0,unknown,512.0,Telok Ayer,10.0,Newton,6.0,Chinatown,50.0,Little India,72.0,Farrer Park,94.0,Promenade,148.0,Tiong Bahru,38.0,Clarke Quay,69.0,City Hall,2720.0,Marina Bay,100.0,Bayfront,245.0,Marina South Pier,16.0
+1386,unknown,126.0
+385,unknown,8.0,Tiong Bahru,3.0,HarbourFront,21.0,Telok Blangah,5.0,Redhill,1.0,Queenstown,1.0
+1515,unknown,225.0,Kranji,43.0,Marsiling,1.0
+626,Boon Keng,8.0,Kallang,363.0,Aljunied,92.0,Farrer Park,82.0,Novena,3.0,Promenade,43.0,Bras Basah,10.0,unknown,976.0,Little India,70.0,City Hall,253.0,Esplanade,15.0,Potong Pasir,8.0,Mountbatten,1.0,Stadium,11.0,Dhoby Ghaut,62.0,Lavender,69.0,Dakota,4.0,Nicoll Highway,5.0,Bayfront,86.0,Bugis,220.0
+1162,Ang Mo Kio,29.0,unknown,154.0,Yio Chu Kang,42.0
+1274,Hougang,1.0,unknown,8.0,Sengkang,5.0,Buangkok,2.0,Punggol,1.0
+580,Promenade,64.0,Somerset,25.0,Nicoll Highway,9.0,Newton,5.0,Novena,38.0,Telok Ayer,17.0,Stadium,12.0,Bayfront,126.0,unknown,1452.0,City Hall,150.0,Orchard,83.0,Esplanade,15.0,Kallang,70.0,Bras Basah,20.0,Lavender,335.0,Farrer Park,2575.0,Raffles Place,233.0,Little India,3410.0,Clarke Quay,35.0,Bugis,713.0,Toa Payoh,16.0,Dhoby Ghaut,317.0,Boon Keng,50.0,Chinatown,60.0
+514,Redhill,20.0,Outram Park,4.0,unknown,32.0,Commonwealth,1.0,Orchard,5.0,HarbourFront,2.0,Queenstown,1.0,Tiong Bahru,10.0,Labrador Park,1.0,Chinatown,2.0
+1403,unknown,15.0,Choa Chu Kang,2.0
+1050,unknown,268.0,Pioneer,2.0,Lakeside,38.0,Boon Lay,69.0
+1498,unknown,549.0,Khatib,94.0,Yishun,40.0
+497,unknown,750.0,Esplanade,28.0,Nicoll Highway,3.0,Tanjong Pagar,57.0,Outram Park,27.0,Chinatown,53.0,Promenade,101.0,Dhoby Ghaut,95.0,Clarke Quay,10.0,Bras Basah,5.0,Marina Bay,767.0,Downtown,15.0,Telok Ayer,5.0,Bugis,33.0,City Hall,158.0,Raffles Place,384.0,Marina South Pier,135.0,Bayfront,456.0
+692,unknown,16.0,Bedok,13.0,Tanah Merah,3.0,Kembangan,3.0
+1499,unknown,402.0,Khatib,84.0,Yishun,19.0
+1387,unknown,247.0
+386,Telok Blangah,6.0,Redhill,7.0,Labrador Park,6.0,Outram Park,24.0,unknown,381.0,Tiong Bahru,22.0,Tanjong Pagar,8.0,Chinatown,24.0,HarbourFront,812.0
+627,Boon Keng,1.0,Bras Basah,1.0,Paya Lebar,2.0,Dakota,1.0,Lavender,2.0,Promenade,4.0,Kallang,36.0,unknown,63.0,Farrer Park,5.0,Little India,1.0,Bugis,5.0,Aljunied,9.0,Nicoll Highway,1.0,City Hall,6.0,Esplanade,1.0
+1516,Admiralty,12.0,unknown,45.0,Marsiling,2.0,Woodlands,11.0
+403,Somerset,16.0,Little India,1.0,Queenstown,2.0,Bugis,1.0,Tiong Bahru,22.0,Telok Ayer,2.0,City Hall,8.0,Tanjong Pagar,2.0,unknown,36.0,Redhill,1.0,Dhoby Ghaut,10.0,Raffles Place,7.0,Outram Park,7.0,Chinatown,9.0,Bras Basah,1.0,Clarke Quay,4.0,Orchard,23.0
+515,Bayfront,123.0,Marina South Pier,10.0,Chinatown,1375.0,Raffles Place,128.0,Marina Bay,30.0,Bras Basah,14.0,Dhoby Ghaut,86.0,Orchard,43.0,Little India,77.0,City Hall,84.0,Promenade,31.0,Tanjong Pagar,32.0,Telok Ayer,32.0,Tiong Bahru,36.0,Downtown,21.0,Clarke Quay,42.0,Somerset,12.0,Esplanade,10.0,unknown,578.0,Outram Park,321.0,Bugis,69.0
+581,Bayfront,181.0,unknown,1103.0,Farrer Park,586.0,Promenade,128.0,Tiong Bahru,100.0,Lavender,69.0,Raffles Place,315.0,Chinatown,232.0,Dhoby Ghaut,1698.0,Little India,543.0,Orchard,694.0,Clarke Quay,56.0,Bugis,133.0,Telok Ayer,16.0,Outram Park,75.0,Nicoll Highway,12.0,Tanjong Pagar,39.0,Downtown,8.0,Somerset,194.0,Novena,35.0,Bras Basah,32.0,City Hall,429.0,Newton,12.0,Esplanade,54.0,Marina Bay,128.0
+1404,unknown,60.0,Buangkok,4.0,Punggol,71.0,Sengkang,5.0
+1275,Buangkok,13.0,Punggol,4.0,Hougang,6.0,Sengkang,87.0,unknown,81.0
+1163,unknown,104.0,Ang Mo Kio,21.0,Yio Chu Kang,43.0
+710,Kallang,3.0,Stadium,1.0,Aljunied,3.0,unknown,25.0,Paya Lebar,51.0,Dakota,3.0,Tai Seng,1.0,Eunos,5.0
+693,Commonwealth,9.0,Farrer Road,25.0,Dover,1.0,Buona Vista,3.0,unknown,121.0,Botanic Gardens,9.0,Queenstown,3.0,Holland Village,10.0
+1051,unknown,69.0,Pioneer,2.0,Lakeside,13.0,Boon Lay,12.0
+934,Pioneer,11.0,unknown,680.0,Joo Koon,6.0,Boon Lay,119.0
+499,unknown,18.0,Labrador Park,1.0,Pasir Panjang,5.0
+582,Tiong Bahru,10.0,Bayfront,21.0,Raffles Place,32.0,Somerset,20.0,unknown,109.0,Tanjong Pagar,4.0,Lavender,6.0,Clarke Quay,4.0,Bugis,22.0,Telok Ayer,1.0,Orchard,55.0,Esplanade,7.0,Chinatown,23.0,Boon Keng,4.0,Outram Park,14.0,Bras Basah,13.0,Downtown,2.0,Little India,13.0,Farrer Park,7.0,Dhoby Ghaut,714.0,City Hall,70.0,Marina Bay,4.0,Novena,7.0,Promenade,15.0
+1471,Marsiling,5.0,unknown,73.0,Woodlands,2.0,Admiralty,8.0
+1052,Lakeside,16.0,Boon Lay,23.0,unknown,105.0,Pioneer,4.0
+387,Tiong Bahru,36.0,HarbourFront,34.0,Outram Park,12.0,Chinatown,6.0,unknown,111.0,Tanjong Pagar,8.0,Clarke Quay,1.0,Telok Ayer,1.0,Redhill,2.0
+1164,unknown,72.0,Sengkang,4.0,Ang Mo Kio,4.0,Buangkok,4.0,Hougang,4.0
+823,unknown,24.0
+694,Botanic Gardens,6.0,Holland Village,3.0,unknown,28.0,Farrer Road,12.0,Buona Vista,3.0
+1517,Woodlands,59.0,unknown,151.0,Admiralty,20.0,Marsiling,2.0
+711,Kembangan,6.0,Stadium,9.0,Dakota,34.0,Tai Seng,1.0,Kallang,15.0,Aljunied,11.0,MacPherson,2.0,Paya Lebar,92.0,unknown,139.0,Eunos,49.0,Mountbatten,9.0
+516,Outram Park,11.0,Bras Basah,2.0,Bayfront,7.0,City Hall,12.0,Tanjong Pagar,17.0,Esplanade,3.0,Somerset,3.0,Telok Ayer,11.0,Raffles Place,40.0,Dhoby Ghaut,13.0,Orchard,10.0,Tiong Bahru,5.0,unknown,60.0,Chinatown,44.0,Bugis,9.0,Marina South Pier,3.0,Clarke Quay,4.0,Little India,7.0,Marina Bay,5.0
+1388,unknown,116.0
+1276,Buangkok,46.0,Sengkang,35.0,Punggol,3.0,unknown,106.0,Hougang,17.0
+628,Dakota,59.0,Stadium,7.0,Kembangan,6.0,Paya Lebar,42.0,MacPherson,3.0,Mountbatten,17.0,Aljunied,12.0,unknown,312.0,Eunos,24.0
+388,Tiong Bahru,4.0,HarbourFront,9.0,Tanjong Pagar,1.0,Chinatown,1.0,unknown,16.0,Outram Park,2.0
+600,Bras Basah,4.0,Farrer Park,12.0,Little India,26.0,Bayfront,4.0,Raffles Place,7.0,unknown,33.0,Bugis,167.0,Kallang,6.0,City Hall,29.0,Esplanade,2.0,Dhoby Ghaut,11.0,Lavender,2.0,Clarke Quay,2.0,Marina Bay,4.0,Orchard,4.0,Chinatown,5.0,Outram Park,6.0,Newton,2.0,Boon Keng,1.0,Nicoll Highway,1.0,Telok Ayer,1.0,Promenade,4.0,Somerset,2.0
+405,Clarke Quay,12.0,Chinatown,14.0,Bayfront,14.0,City Hall,355.0,unknown,81.0,Somerset,9.0,Tanjong Pagar,2.0,Promenade,8.0,Bugis,38.0,Farrer Park,11.0,Esplanade,7.0,Lavender,6.0,Little India,15.0,Orchard,17.0,Bras Basah,18.0,Outram Park,18.0,Raffles Place,10.0,Nicoll Highway,2.0,Tiong Bahru,5.0,Newton,2.0,Marina Bay,3.0,Novena,1.0,Dhoby Ghaut,44.0
+936,Boon Lay,2.0,unknown,28.0
+517,Bugis,21.0,Bras Basah,11.0,Tanjong Pagar,4.0,unknown,97.0,Marina Bay,3.0,Bayfront,15.0,Promenade,20.0,Nicoll Highway,3.0,Dhoby Ghaut,14.0,Raffles Place,269.0,Outram Park,8.0,Chinatown,26.0,City Hall,200.0,Esplanade,20.0,Tiong Bahru,6.0,Telok Ayer,4.0,Downtown,1.0,Somerset,6.0,Clarke Quay,58.0,Lavender,9.0,Orchard,17.0,Little India,8.0
+1360,unknown,132.0,Choa Chu Kang,10.0,Yew Tee,74.0
+695,unknown,111.0
+712,unknown,11.0
+890,Chinese Garden,8.0,Lakeside,1.0,Bukit Batok,59.0,Jurong East,75.0,unknown,353.0
+583,Outram Park,45.0,Bugis,1127.0,Boon Keng,10.0,City Hall,232.0,Bras Basah,22.0,Tanjong Pagar,19.0,Kallang,37.0,Bayfront,270.0,Clarke Quay,12.0,Mountbatten,4.0,Chinatown,73.0,Newton,1.0,Raffles Place,162.0,Downtown,13.0,Little India,94.0,Nicoll Highway,6.0,Promenade,84.0,Novena,3.0,Stadium,13.0,Somerset,15.0,Farrer Park,74.0,Telok Ayer,10.0,Dhoby Ghaut,45.0,unknown,452.0,Marina Bay,86.0,Lavender,75.0,Orchard,58.0,Esplanade,22.0
+1389,unknown,1.0
+824,unknown,18.0
+1518,unknown,63.0,Woodlands,22.0,Admiralty,3.0
+1519,Woodlands,9.0,Kranji,4.0,Marsiling,14.0,unknown,123.0
+584,Esplanade,19.0,Somerset,18.0,Kallang,23.0,Farrer Park,22.0,Chinatown,51.0,Boon Keng,9.0,Dhoby Ghaut,69.0,Downtown,3.0,City Hall,199.0,Promenade,36.0,Newton,3.0,Tanjong Pagar,8.0,Nicoll Highway,12.0,Bras Basah,41.0,Bugis,1064.0,Lavender,50.0,Novena,7.0,unknown,285.0,Stadium,13.0,Clarke Quay,18.0,Bayfront,114.0,Orchard,89.0,Little India,38.0,Telok Ayer,4.0,Raffles Place,83.0,Outram Park,17.0,Marina Bay,39.0
+1054,unknown,89.0,Lakeside,17.0,Boon Lay,25.0,Pioneer,9.0
+472,unknown,87.0
+825,unknown,181.0,Joo Koon,10.0
+891,Chinese Garden,4.0,Jurong East,84.0,Bukit Batok,11.0,Lakeside,4.0,unknown,102.0
+518,Marina Bay,150.0,Bras Basah,23.0,Tiong Bahru,100.0,Marina South Pier,82.0,Little India,191.0,Promenade,91.0,Dhoby Ghaut,239.0,Clarke Quay,203.0,Raffles Place,4035.0,Chinatown,188.0,Bugis,214.0,City Hall,1029.0,Bayfront,239.0,Nicoll Highway,10.0,Downtown,32.0,Esplanade,76.0,Tanjong Pagar,103.0,Outram Park,140.0,Somerset,89.0,Telok Ayer,26.0,Lavender,98.0,unknown,1550.0
+937,Bedok,3.0,Tanah Merah,17.0,unknown,18.0
+1407,Punggol,3.0,Sengkang,1.0,unknown,1.0
+389,Clarke Quay,5.0,Promenade,5.0,Chinatown,35.0,City Hall,71.0,Dhoby Ghaut,15.0,Marina Bay,10.0,Outram Park,31.0,Tiong Bahru,25.0,Bugis,36.0,Tanjong Pagar,201.0,Somerset,5.0,Bras Basah,2.0,Esplanade,7.0,Bayfront,26.0,Telok Ayer,3.0,Marina South Pier,5.0,Raffles Place,102.0,unknown,242.0
+601,Clarke Quay,14.0,Somerset,725.0,Newton,5.0,Little India,47.0,Novena,17.0,Redhill,7.0,unknown,446.0,Tiong Bahru,43.0,Raffles Place,98.0,Bras Basah,7.0,Outram Park,15.0,City Hall,289.0,Esplanade,11.0,Dhoby Ghaut,291.0,Promenade,20.0,Bugis,78.0,Chinatown,43.0,Orchard,500.0,Lavender,26.0,Downtown,2.0,Farrer Park,42.0,Tanjong Pagar,5.0,Telok Ayer,4.0
+1473,Woodlands,7.0,Admiralty,14.0,unknown,66.0
+406,Outram Park,5.0,Tanjong Pagar,3.0,Orchard,11.0,Tiong Bahru,12.0,Somerset,21.0,Telok Ayer,1.0,Bugis,6.0,Esplanade,3.0,Dhoby Ghaut,22.0,Chinatown,9.0,Downtown,1.0,Farrer Park,3.0,City Hall,21.0,unknown,31.0,Little India,1.0,Novena,1.0,Nicoll Highway,1.0,Redhill,2.0,Raffles Place,13.0,Clarke Quay,18.0,Newton,1.0,Promenade,5.0,Bayfront,6.0
+713,unknown,11.0
+826,Woodleigh,5.0,Boon Keng,23.0,Stadium,1.0,Tai Seng,8.0,MacPherson,1.0,Kallang,9.0,Paya Lebar,4.0,unknown,161.0,Aljunied,21.0,Potong Pasir,39.0,Lavender,7.0,Serangoon,8.0,Farrer Park,14.0
+585,Clementi,8.0,unknown,84.0
+1362,Kranji,5.0,Yew Tee,39.0,unknown,125.0,Choa Chu Kang,11.0
+473,City Hall,25.0,Esplanade,4.0,Chinatown,9.0,Promenade,8.0,Somerset,2.0,Raffles Place,80.0,unknown,37.0,Clarke Quay,21.0,Farrer Park,6.0,Marina Bay,1.0,Bayfront,49.0,Nicoll Highway,2.0,Bugis,6.0,Telok Ayer,3.0,Orchard,2.0,Tiong Bahru,3.0,Lavender,1.0,Dhoby Ghaut,9.0,Tanjong Pagar,3.0,Little India,1.0,Outram Park,3.0
+602,Orchard,15.0,Outram Park,1.0,Chinatown,1.0,Little India,1.0,Dhoby Ghaut,12.0,Somerset,23.0,unknown,7.0,Bugis,1.0,Raffles Place,2.0,Tiong Bahru,1.0,City Hall,13.0
+1055,Braddell,1.0,Toa Payoh,4.0,Bishan,4.0,Serangoon,14.0,Potong Pasir,2.0,Lorong Chuan,24.0,unknown,25.0
+519,Downtown,200.0,Nicoll Highway,74.0,Bras Basah,57.0,Raffles Place,3531.0,Stadium,285.0,Bayfront,4496.0,Tanjong Pagar,342.0,Somerset,98.0,Chinatown,378.0,Marina Bay,1454.0,Promenade,1584.0,unknown,2811.0,Telok Ayer,111.0,Clarke Quay,212.0,Bugis,361.0,Dhoby Ghaut,504.0,Marina South Pier,486.0,Little India,323.0,City Hall,1198.0,Lavender,145.0,Esplanade,344.0,Outram Park,229.0
+407,Tiong Bahru,1.0,Raffles Place,2.0,Somerset,3.0,Orchard,5.0,Dhoby Ghaut,2.0,Little India,1.0,City Hall,2.0,Bugis,1.0,unknown,3.0
+892,unknown,2.0,Jurong East,1.0
+1408,Punggol,70.0,Buangkok,1.0,Sengkang,6.0,unknown,45.0
+1250,Kovan,4.0,Sengkang,9.0,Buangkok,50.0,unknown,68.0,Hougang,32.0
+714,unknown,3.0,Buona Vista,1.0
+1474,Sembawang,11.0,unknown,46.0
+697,Jurong East,1.0,Dover,2.0,Clementi,9.0,unknown,24.0
+827,Boon Keng,7.0,Lavender,6.0,Tai Seng,3.0,MacPherson,4.0,Stadium,4.0,Paya Lebar,6.0,Farrer Park,7.0,Kallang,22.0,Dakota,1.0,Bartley,1.0,Aljunied,34.0,unknown,75.0,Serangoon,6.0,Mountbatten,3.0,Eunos,3.0
+910,Aljunied,3.0,MacPherson,3.0,Paya Lebar,6.0,Tai Seng,4.0,unknown,86.0,Eunos,19.0,Kembangan,7.0
+1251,unknown,47.0,Kovan,2.0,Sengkang,3.0,Hougang,24.0
+715,Clementi,4.0,unknown,75.0,Commonwealth,5.0,Buona Vista,3.0,Dover,7.0,Farrer Road,1.0
+586,Bedok,21.0,Kembangan,21.0,unknown,528.0,Eunos,32.0,Dakota,19.0,Paya Lebar,28.0
+408,Bayfront,20.0,Little India,9.0,Marina South Pier,3.0,Dhoby Ghaut,50.0,Marina Bay,15.0,Outram Park,13.0,Newton,4.0,Promenade,19.0,Lavender,12.0,Chinatown,13.0,Boon Keng,1.0,Farrer Park,10.0,unknown,132.0,Stadium,7.0,Raffles Place,46.0,Kallang,4.0,Bras Basah,26.0,City Hall,858.0,Esplanade,32.0,Clarke Quay,5.0,Downtown,1.0,Orchard,51.0,Somerset,22.0,Bugis,51.0,Telok Ayer,2.0,Tanjong Pagar,11.0
+939,Simei,2.0,unknown,7.0,Bedok,1.0,Tanah Merah,7.0
+1168,Hougang,20.0,Sengkang,60.0,Punggol,29.0,Kovan,18.0,Buangkok,120.0,unknown,407.0
+603,Stadium,9.0,Clarke Quay,5.0,Chinatown,46.0,Dhoby Ghaut,58.0,Novena,10.0,City Hall,145.0,Orchard,24.0,Promenade,29.0,Lavender,37.0,Bayfront,67.0,Outram Park,28.0,Bugis,960.0,Marina Bay,34.0,Kallang,16.0,unknown,279.0,Little India,64.0,Nicoll Highway,5.0,Downtown,6.0,Somerset,14.0,Esplanade,13.0,Tanjong Pagar,12.0,Raffles Place,94.0,Farrer Park,26.0,Boon Keng,7.0,Telok Ayer,4.0,Bras Basah,35.0
+1056,Kovan,5.0,unknown,112.0,Lorong Chuan,7.0,Bishan,10.0,Potong Pasir,9.0,Serangoon,80.0,Toa Payoh,7.0,Boon Keng,2.0,Woodleigh,9.0,Braddell,3.0,Bartley,4.0
+474,unknown,11.0,Labrador Park,1.0,Kent Ridge,1.0,Commonwealth,1.0
+1475,unknown,53.0
+893,Woodleigh,1.0,Toa Payoh,35.0,Potong Pasir,2.0,Serangoon,4.0,Marymount,2.0,Novena,7.0,Braddell,47.0,unknown,117.0,Boon Keng,3.0,Ang Mo Kio,4.0,Bishan,52.0,Lorong Chuan,3.0,Caldecott,3.0
+475,unknown,7.0,Queenstown,1.0,Redhill,1.0,Commonwealth,1.0
+911,unknown,63.0,Paya Lebar,6.0,Eunos,10.0,Kembangan,2.0
+409,Queenstown,3.0,Orchard,15.0,Redhill,44.0,unknown,69.0,Commonwealth,6.0,Somerset,6.0,Tiong Bahru,6.0,Holland Village,1.0
+670,Tanah Merah,6.0,Bedok,54.0,Eunos,32.0,unknown,144.0,Kembangan,27.0
+604,unknown,88.0
+1364,Admiralty,1.0,Yishun,1.0,Sembawang,9.0,Khatib,1.0,unknown,29.0
+1252,Kovan,28.0,Hougang,274.0,Buangkok,4.0,Sengkang,8.0,unknown,250.0
+587,Holland Village,8.0,Haw Par Villa,1.0,Dover,2.0,Kent Ridge,2.0,Commonwealth,375.0,unknown,1604.0,Redhill,34.0,Queenstown,11.0,one-north,1.0,Buona Vista,35.0
+716,Orchard,17.0,Bras Basah,1.0,Novena,2.0,Tiong Bahru,1.0,unknown,16.0,Raffles Place,4.0,Somerset,22.0,City Hall,3.0,Dhoby Ghaut,8.0,Chinatown,1.0
+1057,Serangoon,39.0,Lorong Chuan,54.0,Caldecott,3.0,Bishan,13.0,Braddell,2.0,Toa Payoh,16.0,Ang Mo Kio,5.0,Potong Pasir,3.0,Bartley,1.0,unknown,152.0,Woodleigh,1.0,Kovan,1.0
+1169,unknown,34.0,Buangkok,68.0,Kovan,5.0,Sengkang,4.0,Punggol,1.0,Hougang,8.0
+828,Tanah Merah,4.0,Bedok,54.0,Kembangan,23.0,unknown,80.0
+699,Tanah Merah,2.0,unknown,22.0,Bedok,2.0
+912,MacPherson,4.0,unknown,61.0,Bedok,2.0,Eunos,24.0,Paya Lebar,4.0,Kembangan,6.0
+671,Dover,70.0,Kent Ridge,29.0,one-north,16.0,unknown,354.0,Clementi,45.0,Commonwealth,38.0,Buona Vista,36.0,Holland Village,2.0
+588,Redhill,5.0,Farrer Road,2.0,Queenstown,7.0,one-north,3.0,Commonwealth,117.0,Kent Ridge,1.0,unknown,112.0,Holland Village,4.0,Buona Vista,10.0
+1058,unknown,58.0,Jurong East,11.0,Lakeside,9.0,Bukit Batok,2.0,Chinese Garden,18.0,Boon Lay,2.0
+476,Promenade,4.0,Marina Bay,3.0,Somerset,2.0,Little India,7.0,Raffles Place,21.0,Bras Basah,2.0,Outram Park,54.0,Tanjong Pagar,1.0,Telok Ayer,2.0,Dhoby Ghaut,25.0,City Hall,37.0,Clarke Quay,16.0,Orchard,22.0,Newton,1.0,Chinatown,50.0,Bayfront,4.0,Tiong Bahru,28.0,Bugis,11.0,Esplanade,3.0,unknown,62.0,Redhill,1.0
+717,City Hall,1.0,Orchard,2.0
+1253,unknown,51.0,Buangkok,1.0,Hougang,11.0
+1477,Sembawang,1.0,unknown,7.0
+605,unknown,36.0
+895,unknown,115.0,Pioneer,10.0,Boon Lay,19.0
+800,Bedok,53.0,Simei,8.0,Expo,11.0,Tanah Merah,25.0,Kembangan,21.0,unknown,154.0,Tampines,2.0
+784,Dover,1.0,unknown,60.0,Clementi,27.0,Jurong East,6.0
+1059,Boon Lay,2.0,Chinese Garden,8.0,Lakeside,18.0,unknown,56.0,Jurong East,19.0,Pioneer,1.0
+1254,unknown,169.0
+1478,unknown,14.0,Sembawang,5.0
+1030,Simei,11.0,Pasir Ris,5.0,Tampines,21.0,unknown,67.0,Expo,7.0
+560,Newton,1.0,Outram Park,1.0,Orchard,36.0,Novena,1.0,Tiong Bahru,4.0,unknown,22.0,Little India,1.0,Bras Basah,1.0,Somerset,3.0,Botanic Gardens,1.0,Dhoby Ghaut,5.0,City Hall,7.0
+718,City Hall,11.0,Orchard,91.0,Dhoby Ghaut,10.0,Little India,3.0,Farrer Park,1.0,Somerset,9.0,unknown,41.0,Tiong Bahru,14.0,Newton,1.0,Novena,1.0,Redhill,2.0,Chinatown,1.0,Bugis,3.0
+589,one-north,3.0,Buona Vista,72.0,unknown,191.0,Queenstown,3.0,Haw Par Villa,5.0,Dover,4.0,Farrer Road,1.0,Holland Village,12.0,Commonwealth,14.0,Kent Ridge,7.0
+672,Expo,2.0,Tanah Merah,6.0,Bedok,3.0,unknown,28.0
+896,Aljunied,9.0,MacPherson,2.0,Serangoon,22.0,Kovan,3.0,Tai Seng,8.0,unknown,150.0,Bartley,58.0,Potong Pasir,1.0,Lorong Chuan,3.0
+477,Outram Park,34.0,Marina South Pier,6.0,Bras Basah,10.0,Little India,33.0,Marina Bay,9.0,Downtown,1.0,Promenade,11.0,City Hall,316.0,Tanjong Pagar,18.0,Orchard,55.0,Somerset,17.0,Raffles Place,461.0,Dhoby Ghaut,54.0,unknown,272.0,Tiong Bahru,22.0,Clarke Quay,195.0,Esplanade,16.0,Farrer Park,33.0,Nicoll Highway,4.0,Telok Ayer,5.0,Bugis,51.0,Bayfront,20.0,Lavender,21.0,Chinatown,111.0,Newton,2.0
+606,unknown,14.0,Kent Ridge,1.0,Pasir Panjang,1.0,one-north,3.0,Farrer Road,1.0,Buona Vista,2.0,Holland Village,2.0
+1142,unknown,3.0,Pasir Ris,4.0,Simei,1.0
+561,Newton,1.0,Tiong Bahru,5.0,Dhoby Ghaut,7.0,unknown,45.0,Somerset,1.0,Bras Basah,2.0,Redhill,4.0,Chinatown,1.0,Little India,6.0,Outram Park,5.0,Orchard,33.0,Botanic Gardens,1.0
+1367,Kranji,43.0,Marsiling,2.0,unknown,99.0
+719,Raffles Place,39.0,Bras Basah,18.0,Boon Keng,5.0,Promenade,37.0,Aljunied,22.0,Lavender,226.0,Dhoby Ghaut,50.0,Clarke Quay,5.0,unknown,439.0,Dakota,7.0,Downtown,5.0,Mountbatten,4.0,City Hall,133.0,Esplanade,10.0,Telok Ayer,4.0,Nicoll Highway,52.0,Farrer Park,39.0,Bugis,204.0,Stadium,239.0,Newton,2.0,Bayfront,48.0,Novena,3.0,Kallang,53.0,Somerset,11.0,Little India,39.0
+914,Jurong East,83.0,Clementi,19.0,Bukit Batok,29.0,Chinese Garden,7.0,unknown,179.0
+607,Somerset,6.0,Little India,5.0,Outram Park,1.0,Chinatown,1.0,Farrer Park,4.0,unknown,42.0,Dhoby Ghaut,10.0,Bras Basah,2.0,City Hall,4.0,Tiong Bahru,11.0,Raffles Place,5.0,Botanic Gardens,1.0,Clarke Quay,3.0,Bugis,3.0,Orchard,74.0,Telok Ayer,1.0,Novena,1.0
+1255,unknown,272.0
+1143,Lorong Chuan,2.0,Bishan,1.0,unknown,19.0,Kovan,2.0,Ang Mo Kio,5.0,Serangoon,11.0
+1450,Yishun,35.0,unknown,51.0,Sembawang,1.0
+1031,Tampines,12.0,unknown,67.0,Simei,7.0,Pasir Ris,27.0
+478,Kent Ridge,1.0,Buona Vista,2.0,Pasir Panjang,1.0,unknown,49.0,Queenstown,1.0,Commonwealth,1.0,Labrador Park,2.0,Haw Par Villa,52.0
+673,unknown,107.0,Somerset,1.0,Lavender,12.0,Nicoll Highway,1.0,Little India,54.0,Novena,27.0,Potong Pasir,1.0,Braddell,2.0,City Hall,13.0,Orchard,13.0,Dhoby Ghaut,22.0,Newton,1.0,Bugis,16.0,Kallang,5.0,Toa Payoh,8.0,Boon Keng,6.0,Clarke Quay,1.0,Promenade,2.0,Farrer Park,82.0
+980,unknown,156.0
+785,Little India,15.0,Braddell,3.0,Boon Keng,3.0,Toa Payoh,27.0,unknown,82.0,Caldecott,2.0,Novena,39.0,Orchard,12.0,Farrer Park,10.0,Somerset,1.0,Marymount,2.0
+1368,Kranji,11.0,Marsiling,2.0,unknown,38.0
+450,Kent Ridge,2.0,Commonwealth,1.0,unknown,82.0,Haw Par Villa,1.0,Pasir Panjang,12.0,Queenstown,1.0
+674,Orchard,1.0,Lavender,1.0,Chinatown,1.0,Dhoby Ghaut,1.0,Bugis,3.0,Toa Payoh,1.0,Little India,3.0,unknown,9.0,City Hall,1.0,Newton,2.0,Novena,1.0,Farrer Park,2.0
+608,unknown,98.0,Buona Vista,12.0,Kent Ridge,12.0,Dover,7.0,Haw Par Villa,8.0,one-north,3.0,Clementi,20.0,Commonwealth,16.0
+1451,Sembawang,1.0,Marsiling,1.0,Woodlands,2.0,unknown,29.0,Admiralty,15.0
+479,Marina South Pier,2.0,City Hall,329.0,Lavender,9.0,Esplanade,4.0,Orchard,25.0,Dhoby Ghaut,34.0,Nicoll Highway,2.0,Promenade,15.0,Downtown,3.0,Somerset,19.0,Telok Ayer,7.0,unknown,159.0,Newton,4.0,Farrer Park,9.0,Tiong Bahru,16.0,Bayfront,19.0,Bugis,27.0,Bras Basah,6.0,Marina Bay,13.0,Outram Park,30.0,Tanjong Pagar,8.0,Chinatown,85.0,Little India,12.0,Raffles Place,45.0,Clarke Quay,239.0
+898,Potong Pasir,7.0,Tai Seng,3.0,Braddell,1.0,Aljunied,3.0,unknown,169.0,Woodleigh,42.0,Toa Payoh,4.0,Serangoon,19.0,Boon Keng,4.0
+562,Bugis,1.0,Lavender,2.0,Promenade,1.0,Somerset,15.0,Tiong Bahru,1.0,Orchard,17.0,unknown,2.0,Dhoby Ghaut,6.0,City Hall,1.0,Bras Basah,1.0
+1032,Lakeside,25.0,unknown,67.0,Chinese Garden,14.0,Boon Lay,1.0
+1452,unknown,79.0,Woodlands,10.0,Admiralty,22.0,Sembawang,5.0
+787,Dhoby Ghaut,6.0,Farrer Park,5.0,Botanic Gardens,3.0,Somerset,1.0,unknown,59.0,Little India,6.0,Braddell,2.0,Orchard,18.0,Newton,9.0,Novena,1.0,Toa Payoh,7.0
+1340,Pasir Ris,13.0,unknown,33.0,Tampines,4.0
+563,Farrer Park,73.0,Bras Basah,6.0,Little India,638.0,Boon Keng,6.0,Kallang,9.0,Outram Park,19.0,Stadium,4.0,Tanjong Pagar,2.0,Downtown,2.0,Marina Bay,6.0,Somerset,4.0,Raffles Place,23.0,Orchard,18.0,Dhoby Ghaut,74.0,Clarke Quay,3.0,Bugis,194.0,unknown,175.0,Esplanade,3.0,City Hall,35.0,Telok Ayer,4.0,Chinatown,20.0,Lavender,18.0,Novena,6.0,Bayfront,17.0,Nicoll Highway,1.0,Promenade,2.0
+1033,Woodleigh,1.0,Kovan,90.0,Serangoon,38.0,unknown,88.0,Lorong Chuan,1.0,Hougang,1.0,Tai Seng,2.0
+1145,unknown,267.0,Sengkang,10.0,Buangkok,12.0,Kovan,9.0,Hougang,34.0
+609,Holland Village,1.0,Buona Vista,3.0,one-north,5.0,Queenstown,1.0,Commonwealth,1.0,unknown,5.0,Dover,2.0
+870,unknown,31.0,Bedok,2.0,Paya Lebar,4.0,Eunos,23.0,Kembangan,4.0
+982,Clementi,8.0,Dover,2.0,unknown,82.0
+675,Chinatown,13.0,Promenade,2.0,Somerset,4.0,Newton,5.0,Little India,203.0,Novena,40.0,Clarke Quay,5.0,Bugis,47.0,Bras Basah,1.0,Farrer Park,203.0,Raffles Place,12.0,Lavender,23.0,Toa Payoh,6.0,City Hall,16.0,Dhoby Ghaut,30.0,unknown,135.0,Kallang,6.0,Boon Keng,7.0,Orchard,9.0,Esplanade,3.0
+451,unknown,239.0,Chinatown,18.0,HarbourFront,587.0,Telok Blangah,1.0,Tanjong Pagar,8.0,Outram Park,14.0
+452,Outram Park,85.0,unknown,1346.0,HarbourFront,2620.0,Redhill,3.0,Telok Blangah,19.0,Labrador Park,8.0,Tiong Bahru,63.0
+871,Eunos,18.0,MacPherson,1.0,Paya Lebar,1.0,Kembangan,9.0,Tai Seng,1.0,Bedok,4.0,unknown,66.0
+1034,unknown,369.0,Lorong Chuan,2.0,Kovan,348.0,Hougang,22.0,Buangkok,6.0,Serangoon,61.0,Woodleigh,1.0,Tai Seng,3.0
+805,Eunos,25.0,Tanah Merah,2.0,Kembangan,22.0,unknown,107.0,Bedok,48.0
+1341,unknown,102.0,Tampines,13.0,Pasir Ris,58.0
+1258,Tampines,26.0,unknown,29.0,Simei,5.0
+788,unknown,7.0
+564,Newton,1.0,Queenstown,4.0,Chinatown,10.0,Dhoby Ghaut,10.0,Commonwealth,3.0,Clarke Quay,3.0,Orchard,34.0,Outram Park,9.0,Redhill,23.0,unknown,95.0,Tiong Bahru,22.0,Somerset,4.0,Botanic Gardens,4.0
+676,Braddell,5.0,Novena,46.0,Farrer Park,1091.0,Caldecott,2.0,City Hall,33.0,Kallang,13.0,Esplanade,5.0,Somerset,9.0,Dhoby Ghaut,74.0,Bras Basah,3.0,Boon Keng,33.0,Nicoll Highway,4.0,Orchard,32.0,Little India,269.0,Stadium,6.0,Toa Payoh,4.0,Lavender,93.0,Bugis,79.0,Promenade,16.0,unknown,451.0,Potong Pasir,8.0
+1146,unknown,163.0,Hougang,52.0,Buangkok,57.0,Kovan,7.0,Sengkang,41.0
+917,Jurong East,113.0,Lakeside,87.0,Bukit Batok,11.0,unknown,291.0,Chinese Garden,25.0
+984,Lakeside,19.0,unknown,86.0,Pioneer,4.0,Boon Lay,18.0
+1342,Yew Tee,3.0,unknown,68.0,Bukit Gombak,4.0,Choa Chu Kang,24.0
+760,Joo Koon,2.0,unknown,47.0
+872,unknown,53.0,Eunos,19.0,Kembangan,7.0,Bedok,19.0
+677,Aljunied,26.0,Nicoll Highway,2.0,Boon Keng,12.0,Farrer Park,15.0,Bugis,16.0,Paya Lebar,11.0,Dakota,2.0,Little India,7.0,Lavender,12.0,MacPherson,1.0,Potong Pasir,2.0,Kallang,112.0,Mountbatten,1.0,Stadium,5.0,Promenade,2.0,unknown,178.0
+806,Bedok,46.0,unknown,84.0,Tanah Merah,1.0,Eunos,23.0,Kembangan,24.0
+1147,unknown,3.0,Choa Chu Kang,2.0
+1230,Buangkok,11.0,Sengkang,23.0,unknown,99.0
+1454,unknown,21.0
+565,Esplanade,2.0,Chinatown,10.0,Raffles Place,32.0,Bras Basah,8.0,unknown,179.0,Little India,59.0,Stadium,5.0,Bugis,226.0,Lavender,55.0,Newton,3.0,Novena,4.0,Bayfront,16.0,Nicoll Highway,18.0,Telok Ayer,6.0,Mountbatten,3.0,Dhoby Ghaut,10.0,Downtown,2.0,Somerset,3.0,City Hall,41.0,Farrer Park,39.0,Promenade,8.0,Marina Bay,12.0,Kallang,13.0
+1259,Simei,31.0,unknown,176.0,Tampines,71.0
+1148,Choa Chu Kang,38.0,Yew Tee,6.0,Bukit Gombak,6.0,unknown,132.0
+1231,unknown,7.0
+454,Downtown,10.0,Bayfront,839.0,City Hall,140.0,Esplanade,54.0,Stadium,84.0,Outram Park,33.0,Promenade,368.0,Nicoll Highway,20.0,Bugis,42.0,Marina South Pier,124.0,Marina Bay,251.0,Bras Basah,7.0,unknown,435.0,Raffles Place,390.0,Telok Ayer,14.0,Lavender,32.0,Dhoby Ghaut,55.0,Chinatown,47.0,Clarke Quay,38.0,Tanjong Pagar,60.0
+985,Expo,2.0,Simei,4.0,Tampines,6.0,Tanah Merah,6.0,Bedok,3.0,unknown,21.0
+678,Little India,20.0,unknown,204.0,Esplanade,6.0,Nicoll Highway,7.0,Mountbatten,5.0,Stadium,387.0,Bugis,15.0,Boon Keng,16.0,Farrer Park,32.0,City Hall,22.0,Dhoby Ghaut,20.0,Kallang,72.0,Dakota,9.0,Lavender,41.0,Promenade,23.0,Novena,5.0,Aljunied,16.0,Potong Pasir,4.0,Bras Basah,6.0
+873,Farrer Park,272.0,unknown,1266.0,Braddell,9.0,Kallang,7.0,Boon Keng,49.0,Caldecott,1.0,Woodleigh,18.0,Novena,11.0,Toa Payoh,51.0,Potong Pasir,289.0,Bartley,1.0,Serangoon,70.0,Bishan,8.0,Aljunied,20.0,Tai Seng,4.0,MacPherson,1.0,Lavender,18.0
+807,Kembangan,15.0,Eunos,14.0,Bedok,18.0,unknown,43.0
+1455,unknown,82.0
+761,Farrer Park,7.0,Serangoon,7.0,Marymount,2.0,Caldecott,9.0,Novena,7.0,Braddell,36.0,unknown,109.0,Potong Pasir,5.0,Boon Keng,10.0,Toa Payoh,85.0,Bishan,15.0
+919,Bukit Batok,11.0,Jurong East,122.0,unknown,293.0,Bukit Gombak,1.0,Chinese Garden,70.0,Lakeside,131.0
+1343,Choa Chu Kang,16.0,Bukit Batok,1.0,Bukit Gombak,3.0,unknown,94.0
+1036,Kovan,11.0,Serangoon,102.0,Tai Seng,4.0,Bartley,7.0,unknown,98.0,Potong Pasir,1.0
+566,Clarke Quay,22.0,Raffles Place,151.0,Somerset,196.0,Tiong Bahru,254.0,Dhoby Ghaut,307.0,Botanic Gardens,37.0,Outram Park,23.0,City Hall,243.0,Chinatown,82.0,Esplanade,16.0,Novena,45.0,unknown,890.0,Bugis,91.0,Orchard,2342.0,Bras Basah,11.0,Little India,50.0,Redhill,7.0,Newton,13.0,Telok Ayer,4.0,Farrer Park,66.0
+567,Stadium,2.0,Somerset,1.0,Kallang,4.0,Clarke Quay,1.0,Bugis,35.0,Chinatown,6.0,Boon Keng,1.0,Lavender,1.0,Newton,3.0,Novena,2.0,Bayfront,17.0,Bras Basah,11.0,unknown,41.0,Orchard,11.0,Raffles Place,25.0,Farrer Park,16.0,Outram Park,5.0,Nicoll Highway,1.0,Promenade,8.0,Tanjong Pagar,1.0,City Hall,28.0,Telok Ayer,1.0,Dhoby Ghaut,56.0,Little India,42.0,Marina Bay,2.0
+1232,unknown,6.0
+455,unknown,88.0
+874,unknown,61.0
+1120,unknown,27.0,Boon Lay,7.0
+1037,Lorong Chuan,2.0,Serangoon,23.0,Kovan,21.0,Hougang,3.0,unknown,38.0,Bartley,3.0
+679,Aljunied,2.0,unknown,22.0,Farrer Park,4.0,Bras Basah,1.0,Little India,4.0,Boon Keng,3.0,Kallang,19.0,Stadium,8.0,Novena,1.0,Bugis,4.0,Woodleigh,1.0,Paya Lebar,4.0,Lavender,5.0
+762,Lakeside,1.0
+650,Clementi,6.0,Buona Vista,25.0,Dover,4.0,Holland Village,3.0,Kent Ridge,1.0,Commonwealth,8.0,unknown,43.0
+1344,unknown,19.0,Bukit Batok,4.0,Bukit Gombak,4.0
+808,Potong Pasir,1.0,unknown,29.0,MacPherson,20.0,Aljunied,2.0,Tai Seng,2.0,Paya Lebar,9.0,Serangoon,1.0
+1149,Choa Chu Kang,62.0,Yew Tee,6.0,unknown,174.0
+1345,Choa Chu Kang,6.0,unknown,35.0
+809,Eunos,11.0,Bartley,1.0,Mountbatten,1.0,MacPherson,63.0,Boon Keng,2.0,Aljunied,25.0,Tai Seng,6.0,Kembangan,7.0,Stadium,3.0,Potong Pasir,2.0,Kallang,11.0,unknown,157.0,Paya Lebar,44.0,Dakota,1.0
+1233,Woodlands,1.0,unknown,40.0,Marsiling,4.0,Kranji,1.0
+456,Chinatown,81.0,Dhoby Ghaut,39.0,Queenstown,15.0,Tiong Bahru,125.0,Clarke Quay,8.0,Tanjong Pagar,26.0,Outram Park,71.0,Telok Ayer,6.0,unknown,1147.0,Somerset,20.0,HarbourFront,60.0,Orchard,61.0,Redhill,244.0
+651,Mountbatten,12.0,unknown,1329.0,Somerset,21.0,Clarke Quay,9.0,Little India,130.0,Newton,3.0,Novena,11.0,Farrer Park,436.0,Lavender,808.0,Bugis,262.0,Bras Basah,8.0,Nicoll Highway,19.0,City Hall,247.0,Dhoby Ghaut,69.0,Potong Pasir,15.0,Kallang,169.0,Esplanade,12.0,Bayfront,80.0,Aljunied,292.0,Promenade,26.0,Raffles Place,200.0,Stadium,24.0,Boon Keng,27.0
+1038,Tai Seng,3.0,Serangoon,38.0,Bartley,1.0,unknown,195.0,Buangkok,5.0,Kovan,92.0,Hougang,32.0
+1121,Boon Lay,6.0,unknown,25.0
+763,Boon Lay,56.0,unknown,256.0,Pioneer,6.0,Lakeside,67.0
+987,Jurong East,40.0,Bukit Batok,19.0,Bukit Gombak,1.0,unknown,149.0
+1540,Admiralty,14.0,unknown,159.0,Yishun,6.0,Sembawang,41.0
+568,Little India,19.0,unknown,13.0,Bugis,6.0,Bayfront,3.0,Novena,1.0,Dhoby Ghaut,40.0,Tanjong Pagar,1.0,Tiong Bahru,2.0,Clarke Quay,1.0,Raffles Place,4.0,Orchard,8.0,Boon Keng,1.0,Esplanade,1.0,Lavender,1.0,City Hall,6.0,Somerset,4.0
+1457,Yishun,4.0,unknown,48.0,Sembawang,20.0
+1122,Pioneer,1.0,Boon Lay,1.0,unknown,9.0
+1346,Hougang,64.0,Serangoon,21.0,MacPherson,1.0,Bartley,2.0,Kovan,26.0,Tai Seng,3.0,unknown,176.0
+876,Novena,12.0,unknown,85.0,Marymount,1.0,Bartley,2.0,Lorong Chuan,1.0,Serangoon,3.0,Woodleigh,2.0,Toa Payoh,94.0,Braddell,5.0,Potong Pasir,18.0,Boon Keng,3.0,Bishan,4.0,Farrer Park,1.0,Caldecott,4.0
+1010,Boon Keng,2.0,Novena,4.0,Serangoon,1.0,Potong Pasir,5.0,Caldecott,7.0,Braddell,2.0,Toa Payoh,25.0,Bartley,1.0,Little India,1.0,Bishan,1.0,Lavender,3.0,unknown,22.0
+569,Dakota,30.0,Kembangan,10.0,Paya Lebar,25.0,Eunos,49.0,Mountbatten,10.0,unknown,237.0
+652,Stadium,11.0,Mountbatten,22.0,Eunos,68.0,Aljunied,714.0,Tai Seng,9.0,unknown,1353.0,Dakota,34.0,Kallang,151.0,Paya Lebar,107.0,Nicoll Highway,6.0,Boon Keng,12.0,Potong Pasir,5.0,Lavender,46.0,MacPherson,6.0
+1039,unknown,22.0,Bukit Batok,4.0,Bukit Gombak,1.0
+1234,Admiralty,9.0,Woodlands,11.0,Marsiling,34.0,Kranji,4.0,unknown,184.0
+1458,unknown,1.0
+457,unknown,982.0,Queenstown,9.0,HarbourFront,44.0,Outram Park,39.0,Redhill,131.0,Somerset,14.0,Orchard,37.0,Tiong Bahru,39.0,Chinatown,68.0,Telok Blangah,1.0,Commonwealth,8.0
+1541,unknown,269.0,Yishun,13.0,Sembawang,66.0,Admiralty,8.0
+1347,Kovan,8.0,Hougang,34.0,unknown,89.0
+1011,Chinese Garden,7.0,Bukit Batok,3.0,unknown,153.0,Lakeside,6.0,Clementi,23.0,Jurong East,57.0
+960,Boon Lay,95.0,Lakeside,115.0,Chinese Garden,135.0,unknown,689.0
+653,Dakota,36.0,MacPherson,9.0,Paya Lebar,406.0,unknown,961.0,Eunos,142.0,Kallang,75.0,Kembangan,24.0,Potong Pasir,2.0,Mountbatten,20.0,Stadium,23.0,Aljunied,89.0,Tai Seng,10.0
+541,Bayfront,3.0,Bugis,1.0,Tanjong Pagar,16.0,City Hall,2.0,Raffles Place,6.0,Chinatown,4.0,unknown,7.0,Dhoby Ghaut,1.0,Outram Park,1.0,Telok Ayer,3.0
+1459,Sembawang,16.0,unknown,40.0,Admiralty,1.0,Yishun,5.0
+765,Expo,3.0,unknown,32.0
+1235,Woodlands,54.0,Kranji,3.0,Admiralty,17.0,unknown,192.0
+1430,Yishun,44.0,unknown,119.0,Sembawang,7.0,Khatib,6.0
+1542,Woodlands,3.0,unknown,5.0
+989,Lakeside,276.0,Chinese Garden,227.0,unknown,1408.0,Pioneer,7.0,Boon Lay,327.0
+766,Tanah Merah,4.0,unknown,20.0,Simei,3.0,Expo,5.0
+459,unknown,47.0
+1124,Marymount,2.0,Ang Mo Kio,6.0,Bishan,16.0,Yio Chu Kang,2.0,unknown,40.0
+1431,Yishun,51.0,Khatib,4.0,unknown,155.0,Sembawang,5.0
+878,Holland Village,2.0,unknown,546.0,Botanic Gardens,55.0,Farrer Road,6.0
+542,Labrador Park,1.0,Commonwealth,1.0,Queenstown,1.0,Telok Blangah,1.0,HarbourFront,6.0,unknown,13.0
+1190,Serangoon,91.0,Caldecott,13.0,Woodleigh,2.0,Marymount,31.0,Braddell,28.0,Toa Payoh,105.0,unknown,2413.0,Ang Mo Kio,144.0,Lorong Chuan,20.0,Bishan,598.0
+1236,unknown,2.0,Admiralty,1.0,Woodlands,1.0
+655,Somerset,10.0,Dakota,4.0,Esplanade,12.0,Little India,14.0,Chinatown,11.0,Raffles Place,41.0,Clarke Quay,3.0,Bugis,57.0,Boon Keng,1.0,Stadium,85.0,Lavender,115.0,Dhoby Ghaut,18.0,Downtown,2.0,unknown,140.0,Kallang,10.0,Bras Basah,3.0,Promenade,40.0,Novena,2.0,Bayfront,51.0,Mountbatten,4.0,Marina Bay,15.0,Farrer Park,17.0,City Hall,64.0,Telok Ayer,4.0,Aljunied,4.0,Nicoll Highway,73.0
+1432,Sembawang,11.0,Marsiling,2.0,unknown,319.0,Admiralty,122.0,Woodlands,25.0
+1237,unknown,11.0
+1191,Lorong Chuan,6.0,Serangoon,23.0,Woodleigh,1.0,unknown,273.0,Ang Mo Kio,10.0,Toa Payoh,11.0,Caldecott,1.0,Bishan,254.0,Marymount,2.0,Potong Pasir,5.0,Braddell,17.0
+767,unknown,11.0
+543,Promenade,3.0,Downtown,4.0,Raffles Place,37.0,Clarke Quay,1.0,Tanjong Pagar,41.0,Bugis,5.0,Outram Park,6.0,Chinatown,9.0,Tiong Bahru,1.0,Nicoll Highway,1.0,Bayfront,7.0,Marina South Pier,1.0,unknown,69.0,City Hall,7.0,Dhoby Ghaut,3.0,Marina Bay,5.0,Telok Ayer,2.0,Somerset,1.0
+1013,unknown,73.0,Holland Village,2.0,Dover,3.0,Clementi,1.0
+1125,Bukit Gombak,34.0,Choa Chu Kang,12.0,Chinese Garden,8.0,Bukit Batok,17.0,unknown,198.0
+431,Downtown,2.0,Outram Park,8.0,Marina Bay,14.0,Promenade,5.0,City Hall,22.0,Raffles Place,36.0,Marina South Pier,174.0,unknown,183.0,Chinatown,16.0,Bayfront,14.0,Tanjong Pagar,6.0,Esplanade,2.0
+1320,unknown,45.0
+879,unknown,9.0
+432,Tiong Bahru,9.0,Raffles Place,23.0,Orchard,11.0,Downtown,6.0,Clarke Quay,10.0,Somerset,3.0,City Hall,30.0,Telok Ayer,7.0,Chinatown,154.0,Bugis,11.0,unknown,61.0,Tanjong Pagar,2.0,Esplanade,1.0,Marina South Pier,2.0,Bras Basah,1.0,Outram Park,27.0,Bayfront,24.0,Marina Bay,8.0,Promenade,9.0,Little India,3.0,Dhoby Ghaut,15.0
+1080,unknown,33.0,Bartley,1.0,Hougang,10.0,Paya Lebar,4.0,Eunos,7.0,Tai Seng,2.0,Serangoon,15.0
+1321,unknown,12.0
+656,unknown,441.0,City Hall,66.0,Promenade,14.0,Newton,4.0,Orchard,13.0,Novena,11.0,Dhoby Ghaut,57.0,Bayfront,32.0,Mountbatten,1.0,Bras Basah,7.0,Telok Ayer,3.0,Somerset,4.0,Clarke Quay,11.0,Farrer Park,362.0,Nicoll Highway,4.0,Downtown,5.0,Boon Keng,19.0,Chinatown,31.0,Stadium,7.0,Raffles Place,59.0,Lavender,158.0,Little India,706.0,Kallang,32.0,Esplanade,5.0,Bugis,415.0
+963,unknown,450.0,Chinese Garden,108.0,Boon Lay,63.0,Lakeside,112.0
+1014,Holland Village,1.0,unknown,24.0,Buona Vista,2.0,Botanic Gardens,1.0
+544,Somerset,5.0,Raffles Place,15.0,Chinatown,9.0,Stadium,29.0,Kallang,1.0,Little India,7.0,Tanjong Pagar,1.0,Bugis,34.0,Mountbatten,2.0,unknown,70.0,City Hall,179.0,Bayfront,11.0,Esplanade,86.0,Farrer Park,3.0,Telok Ayer,3.0,Marina South Pier,2.0,Marina Bay,2.0,Outram Park,10.0,Clarke Quay,7.0,Promenade,97.0,Bras Basah,10.0,Dhoby Ghaut,18.0,Nicoll Highway,2.0,Lavender,3.0
+768,unknown,90.0
+851,Lakeside,30.0,unknown,82.0,Chinese Garden,11.0,Jurong East,34.0
+1433,Admiralty,51.0,Woodlands,4.0,unknown,96.0,Sembawang,5.0
+545,Marina Bay,596.0,Nicoll Highway,85.0,Promenade,1847.0,Marina South Pier,229.0,Downtown,75.0,Somerset,74.0,Raffles Place,1430.0,Stadium,283.0,Tanjong Pagar,125.0,Kallang,44.0,Bras Basah,102.0,Lavender,138.0,City Hall,2509.0,Dhoby Ghaut,391.0,Bayfront,2424.0,Esplanade,680.0,Farrer Park,180.0,unknown,1528.0,Clarke Quay,148.0,Chinatown,168.0,Little India,158.0,Telok Ayer,86.0,Bugis,304.0,Outram Park,131.0
+1322,Bishan,19.0,unknown,100.0,Yio Chu Kang,12.0,Ang Mo Kio,60.0
+769,unknown,14.0
+852,Jurong East,1.0,unknown,2.0
+964,Bukit Batok,31.0,Bukit Gombak,2.0,Chinese Garden,1.0,Jurong East,26.0,unknown,117.0
+1193,Lorong Chuan,1.0,Serangoon,4.0,Ang Mo Kio,7.0,Bartley,1.0,Braddell,17.0,unknown,113.0,Potong Pasir,4.0,Caldecott,3.0,Bishan,68.0,Woodleigh,1.0,Toa Payoh,20.0
+657,Farrer Park,12.0,Somerset,23.0,Farrer Road,1.0,Dhoby Ghaut,55.0,City Hall,33.0,Outram Park,3.0,unknown,182.0,Bugis,13.0,Little India,12.0,Orchard,552.0,Newton,1.0,Chinatown,8.0,Novena,3.0,Redhill,3.0,Tiong Bahru,75.0,Botanic Gardens,9.0,Bras Basah,3.0,Clarke Quay,4.0
+433,HarbourFront,12.0,Orchard,13.0,Dhoby Ghaut,12.0,City Hall,19.0,Clarke Quay,4.0,Redhill,9.0,Chinatown,36.0,Tiong Bahru,125.0,Downtown,3.0,Esplanade,1.0,Somerset,2.0,Marina Bay,4.0,Outram Park,54.0,Tanjong Pagar,20.0,Raffles Place,17.0,unknown,139.0,Telok Blangah,1.0
+1127,Bukit Batok,7.0,Chinese Garden,2.0,unknown,20.0
+1210,Pasir Ris,22.0,unknown,46.0
+965,Bukit Batok,41.0,Chinese Garden,19.0,Bukit Gombak,1.0,Lakeside,5.0,Jurong East,31.0,unknown,106.0
+741,Orchard,15.0,Little India,3.0,Dhoby Ghaut,5.0,unknown,35.0,Clarke Quay,1.0,Lavender,1.0,Promenade,3.0,Farrer Park,2.0,City Hall,1.0,Bugis,1.0,Chinatown,13.0,Somerset,6.0,Esplanade,1.0
+546,Raffles Place,626.0,Marina Bay,196.0,Stadium,99.0,Esplanade,420.0,Bras Basah,81.0,Kallang,13.0,Lavender,47.0,Marina South Pier,49.0,Tanjong Pagar,33.0,Dhoby Ghaut,189.0,Downtown,26.0,Somerset,22.0,Nicoll Highway,29.0,Outram Park,55.0,Farrer Park,76.0,City Hall,1930.0,Chinatown,63.0,Bayfront,641.0,unknown,721.0,Clarke Quay,85.0,Telok Ayer,38.0,Bugis,114.0,Promenade,710.0,Little India,59.0
+434,Orchard,40.0,Marina Bay,25.0,Newton,2.0,Promenade,23.0,Chinatown,1022.0,Tanjong Pagar,16.0,Bugis,75.0,Marina South Pier,3.0,Nicoll Highway,2.0,City Hall,88.0,unknown,378.0,Bayfront,76.0,Esplanade,13.0,Dhoby Ghaut,66.0,Raffles Place,84.0,Bras Basah,14.0,Clarke Quay,48.0,Telok Ayer,12.0,Downtown,7.0,Somerset,13.0,Outram Park,185.0,Little India,36.0,Tiong Bahru,13.0
+1211,Pasir Ris,57.0,Tampines,13.0,unknown,125.0
+1128,Ang Mo Kio,211.0,Bishan,59.0,Lorong Chuan,2.0,unknown,362.0,Yio Chu Kang,29.0,Braddell,3.0,Marymount,5.0
+658,Haw Par Villa,13.0,Buona Vista,121.0,one-north,6.0,Queenstown,1.0,Dover,5.0,Kent Ridge,9.0,Holland Village,17.0,Clementi,18.0,Commonwealth,26.0,Farrer Road,4.0,unknown,389.0
+1323,Lorong Chuan,2.0,Marymount,3.0,Ang Mo Kio,247.0,Bishan,39.0,Yio Chu Kang,85.0,unknown,603.0
+853,Chinese Garden,1.0,Jurong East,10.0,Clementi,5.0,unknown,38.0
+1435,Marsiling,2.0,Admiralty,33.0,Woodlands,43.0,unknown,152.0
+742,Tanah Merah,6.0,Bedok,34.0,unknown,216.0,Kembangan,27.0
+547,Farrer Park,11.0,Newton,1.0,Novena,4.0,Bras Basah,78.0,City Hall,73.0,Lavender,3.0,unknown,55.0,Esplanade,20.0,Bugis,29.0,Bayfront,23.0,Raffles Place,25.0,Outram Park,3.0,Dhoby Ghaut,86.0,Marina Bay,8.0,Downtown,1.0,Chinatown,6.0,Little India,13.0,Boon Keng,2.0,Somerset,9.0,Orchard,32.0,Promenade,41.0,Kallang,1.0,Clarke Quay,8.0,Tanjong Pagar,2.0,Nicoll Highway,2.0,Tiong Bahru,4.0,Stadium,6.0
+1083,Bukit Gombak,20.0,Jurong East,17.0,Chinese Garden,2.0,unknown,88.0,Bukit Batok,6.0
+854,unknown,174.0,Clementi,18.0,Jurong East,65.0,Chinese Garden,2.0
+966,Expo,6.0,Simei,14.0,Tanah Merah,9.0,Tampines,20.0,unknown,81.0
+1129,Kovan,21.0,Serangoon,15.0,unknown,30.0,Bartley,1.0,Hougang,1.0
+1324,Yio Chu Kang,13.0,Ang Mo Kio,64.0,unknown,43.0,Bishan,14.0
+435,Outram Park,6.0,HarbourFront,1.0,Clarke Quay,1.0,Redhill,3.0,Orchard,2.0,Tiong Bahru,39.0,Somerset,1.0,unknown,38.0,Queenstown,1.0,Raffles Place,3.0,Chinatown,4.0
+1017,unknown,20.0,Commonwealth,1.0,Clementi,2.0,Holland Village,2.0
+1390,unknown,69.0,Kranji,5.0,Yew Tee,21.0
+630,Redhill,2.0,Queenstown,5.0,Holland Village,99.0,Buona Vista,40.0,unknown,122.0,Commonwealth,13.0,Botanic Gardens,8.0,Dover,1.0
+1100,Tampines,3.0,unknown,24.0
+1212,Ang Mo Kio,23.0,unknown,145.0,Yio Chu Kang,71.0
+659,Dakota,31.0,Aljunied,32.0,Boon Keng,5.0,Stadium,984.0,Little India,33.0,Nicoll Highway,43.0,Lavender,33.0,Promenade,337.0,Paya Lebar,45.0,Kallang,100.0,unknown,681.0,City Hall,75.0,Esplanade,69.0,Bras Basah,15.0,Farrer Park,20.0,Bugis,40.0,Mountbatten,57.0
+1436,Admiralty,1.0,Woodlands,2.0
+743,unknown,25.0,Kembangan,1.0,Eunos,2.0
+1018,unknown,1.0
+548,Telok Blangah,3.0,Buona Vista,34.0,Haw Par Villa,11.0,Holland Village,17.0,Redhill,49.0,Pasir Panjang,1.0,one-north,3.0,Tiong Bahru,34.0,Queenstown,133.0,Farrer Road,7.0,Kent Ridge,13.0,Commonwealth,131.0,unknown,883.0,Labrador Park,1.0
+1196,Simei,7.0,unknown,37.0,Tampines,21.0
+1520,Woodlands,27.0,Kranji,2.0,Marsiling,1.0,unknown,84.0,Admiralty,8.0
+1213,Ang Mo Kio,26.0,Yio Chu Kang,68.0,unknown,102.0
+390,Tanjong Pagar,158.0,Outram Park,23.0,Nicoll Highway,4.0,Raffles Place,381.0,unknown,544.0,Chinatown,51.0,City Hall,123.0,Bras Basah,7.0,Telok Ayer,8.0,Promenade,30.0,Esplanade,56.0,Bugis,40.0,Clarke Quay,20.0,Marina South Pier,97.0,Marina Bay,257.0,Downtown,65.0,Somerset,17.0,Dhoby Ghaut,64.0,Bayfront,103.0,Tiong Bahru,26.0
+436,Marina Bay,3.0,unknown,107.0,Redhill,1.0,Tiong Bahru,7.0,Tanjong Pagar,3.0,Clarke Quay,1.0,Outram Park,36.0,HarbourFront,7.0,Somerset,3.0,Chinatown,36.0,Telok Ayer,1.0,Dhoby Ghaut,11.0,Raffles Place,11.0
+1391,Kranji,13.0,unknown,107.0,Yew Tee,10.0
+1084,Bukit Batok,3.0,unknown,2.0
+1325,Bishan,49.0,Yio Chu Kang,30.0,unknown,215.0,Marymount,3.0,Ang Mo Kio,277.0
+1437,Admiralty,17.0,unknown,167.0,Woodlands,93.0,Marsiling,2.0
+855,Lakeside,16.0,Chinese Garden,8.0,unknown,128.0,Jurong East,103.0
+967,Expo,8.0,Pasir Ris,6.0,Simei,40.0,unknown,97.0,Tampines,12.0,Tanah Merah,10.0
+391,Telok Ayer,2.0,Raffles Place,13.0,Tiong Bahru,24.0,HarbourFront,47.0,Chinatown,38.0,Bayfront,6.0,Dhoby Ghaut,11.0,Outram Park,107.0,Tanjong Pagar,26.0,unknown,113.0,Marina Bay,3.0,City Hall,11.0,Downtown,1.0,Somerset,1.0,Redhill,3.0
+1214,Buangkok,13.0,Kovan,1.0,unknown,30.0,Hougang,2.0,Sengkang,10.0
+632,Dhoby Ghaut,452.0,Clarke Quay,61.0,unknown,2234.0,Raffles Place,321.0,Farrer Park,5067.0,Bras Basah,34.0,Esplanade,27.0,Stadium,19.0,Toa Payoh,34.0,Potong Pasir,29.0,Bugis,516.0,Promenade,104.0,Little India,1600.0,Somerset,52.0,Novena,67.0,Kallang,86.0,Newton,10.0,Boon Keng,102.0,Lavender,545.0,Orchard,221.0,Nicoll Highway,18.0,City Hall,286.0
+1019,Boon Lay,26.0,unknown,143.0,Lakeside,22.0
+1392,unknown,4.0,Yew Tee,2.0
+1326,Yio Chu Kang,32.0,Bishan,19.0,unknown,59.0,Ang Mo Kio,41.0
+744,unknown,15.0
+1280,unknown,54.0,Yio Chu Kang,13.0,Ang Mo Kio,1.0
+1102,unknown,4.0
+549,Outram Park,1.0,Telok Ayer,1.0,Downtown,1.0,unknown,25.0,Tiong Bahru,6.0,Little India,2.0,Newton,2.0,Novena,1.0,Clarke Quay,3.0,Somerset,24.0,Chinatown,1.0,Bras Basah,2.0,Raffles Place,3.0,Bugis,3.0,Orchard,9.0,City Hall,10.0,Dhoby Ghaut,6.0
+1197,Expo,33.0,unknown,387.0,Simei,68.0,Tampines,169.0,Pasir Ris,13.0
+437,Tanjong Pagar,2.0,Marina South Pier,21.0,Nicoll Highway,4.0,Downtown,1.0,unknown,55.0,City Hall,10.0,Esplanade,4.0,Clarke Quay,3.0,Bugis,7.0,Bayfront,114.0,Raffles Place,50.0,Chinatown,5.0,Promenade,40.0,Marina Bay,28.0
+1438,Woodlands,22.0,unknown,27.0,Admiralty,6.0
+856,unknown,182.0,Jurong East,135.0
+1521,Woodlands,14.0,Admiralty,6.0,Kranji,1.0,Marsiling,11.0,unknown,84.0
+968,Jurong East,51.0,unknown,203.0,Chinese Garden,7.0,Bukit Batok,51.0
+1085,Braddell,4.0,Ang Mo Kio,6.0,Caldecott,2.0,Yio Chu Kang,2.0,unknown,69.0,Bishan,83.0,Marymount,4.0
+392,Outram Park,332.0,Marina Bay,16.0,Tanjong Pagar,70.0,Esplanade,4.0,unknown,603.0,Chinatown,154.0,Tiong Bahru,30.0,Marina South Pier,7.0,Raffles Place,121.0,Somerset,4.0,HarbourFront,779.0,Downtown,1.0,Clarke Quay,23.0,Bras Basah,2.0,City Hall,59.0,Bayfront,25.0,Redhill,14.0,Telok Ayer,3.0,Dhoby Ghaut,49.0
+857,Boon Lay,5.0,unknown,45.0,Joo Koon,1.0
+1281,unknown,106.0
+969,Bukit Gombak,4.0,Jurong East,177.0,Chinese Garden,14.0,Lakeside,32.0,Bukit Batok,164.0,unknown,632.0
+1086,unknown,70.0,Ang Mo Kio,10.0,Braddell,5.0,Yio Chu Kang,5.0,Bishan,56.0,Marymount,3.0,Caldecott,1.0,Toa Payoh,7.0
+633,unknown,8.0
+1410,Punggol,93.0,Sengkang,10.0,unknown,64.0
+940,Bukit Batok,3.0,Jurong East,9.0,Clementi,43.0,unknown,181.0
+438,Tanjong Pagar,16.0,Marina South Pier,57.0,Telok Ayer,3.0,unknown,90.0,Outram Park,5.0,Marina Bay,23.0,Bayfront,39.0,Promenade,10.0,Downtown,1.0,Nicoll Highway,2.0,Raffles Place,51.0,Chinatown,4.0,Clarke Quay,3.0,Esplanade,3.0,City Hall,17.0
+1215,Hougang,14.0,unknown,115.0,Sengkang,27.0,Buangkok,22.0,Kovan,4.0
+745,Tanah Merah,11.0,unknown,91.0,Expo,18.0
+1393,unknown,1.0
+1522,Marsiling,2.0,Woodlands,1.0,Admiralty,1.0,unknown,7.0
+1198,Tampines,8.0,Simei,3.0,unknown,55.0,Bedok,6.0
+1439,Admiralty,6.0,Marsiling,16.0,Kranji,1.0,unknown,77.0,Woodlands,15.0
+1103,Bishan,24.0,Ang Mo Kio,7.0,Yio Chu Kang,1.0,Marymount,14.0,unknown,61.0
+1327,unknown,12.0,Bishan,1.0,Ang Mo Kio,13.0,Yio Chu Kang,10.0
+1282,unknown,54.0
+1170,unknown,41.0,Changi Airport,4.0
+410,Orchard,18.0,Promenade,2.0,Newton,2.0,Lavender,6.0,Farrer Park,5.0,Boon Keng,1.0,City Hall,154.0,Esplanade,9.0,Somerset,8.0,Nicoll Highway,1.0,Tanjong Pagar,1.0,Chinatown,8.0,Kallang,3.0,Dhoby Ghaut,23.0,Clarke Quay,3.0,Bayfront,8.0,Raffles Place,11.0,Bras Basah,10.0,Bugis,29.0,Marina Bay,1.0,Stadium,1.0,unknown,59.0,Outram Park,2.0,Little India,5.0,Novena,2.0,Telok Ayer,1.0,Tiong Bahru,4.0
+746,unknown,2.0,Orchard,1.0
+1199,unknown,43.0,Bedok,7.0,Tanah Merah,2.0,Expo,1.0,Tampines,7.0
+634,unknown,16.0
+1394,Kranji,5.0,unknown,43.0
+1087,Caldecott,9.0,Lorong Chuan,3.0,Bishan,42.0,unknown,110.0,Marymount,56.0,Braddell,7.0,Toa Payoh,2.0,Ang Mo Kio,7.0
+1104,Ang Mo Kio,2.0,unknown,42.0,Braddell,1.0,Marymount,9.0,Bishan,10.0
+1328,unknown,64.0,Yio Chu Kang,7.0,Bishan,14.0,Ang Mo Kio,65.0,Marymount,1.0
+1395,unknown,77.0
+394,Chinatown,7.0,Redhill,4.0,Outram Park,11.0,unknown,64.0,HarbourFront,16.0,Queenstown,1.0,Telok Blangah,4.0,Tiong Bahru,42.0
+1283,Sengkang,120.0,Punggol,51.0,Hougang,10.0,Buangkok,8.0,unknown,145.0
+942,Eunos,1.0,Bedok,2.0,unknown,4.0
+830,Bedok,253.0,Tanah Merah,29.0,unknown,492.0,Eunos,109.0,Kembangan,113.0
+747,Botanic Gardens,31.0,unknown,234.0,Little India,20.0,Caldecott,3.0,Farrer Road,4.0,Orchard,75.0,Somerset,5.0,Novena,5.0,Toa Payoh,13.0,Newton,23.0
+1412,Kranji,1.0,Yew Tee,2.0,unknown,10.0
+859,unknown,5.0
+523,Esplanade,27.0,Dhoby Ghaut,54.0,Nicoll Highway,12.0,Downtown,48.0,City Hall,154.0,unknown,465.0,Chinatown,55.0,Bayfront,1316.0,Bras Basah,5.0,Somerset,12.0,Outram Park,22.0,Telok Ayer,24.0,Clarke Quay,26.0,Tanjong Pagar,29.0,Bugis,104.0,Promenade,194.0,Marina South Pier,50.0,Marina Bay,173.0,Raffles Place,226.0
+411,unknown,21.0,Nicoll Highway,2.0,Bugis,15.0,Dhoby Ghaut,8.0,Chinatown,2.0,Esplanade,1.0,City Hall,27.0,Raffles Place,3.0,Somerset,2.0,Marina Bay,2.0,Farrer Park,2.0,Outram Park,3.0,Little India,3.0,Bras Basah,9.0,Orchard,3.0,Bayfront,2.0,Lavender,3.0,Kallang,3.0,Tanjong Pagar,1.0
+1217,Buangkok,22.0,Sengkang,63.0,Punggol,13.0,unknown,81.0,Hougang,5.0
+1105,Braddell,2.0,unknown,49.0,Caldecott,1.0,Bishan,15.0,Marymount,10.0
+1524,unknown,90.0,Yishun,35.0,Khatib,5.0
+1300,Hougang,241.0,Sengkang,47.0,Kovan,10.0,unknown,260.0,Buangkok,29.0
+1329,Yio Chu Kang,2.0,Ang Mo Kio,15.0,unknown,51.0
+635,unknown,1.0
+831,Tanah Merah,4.0,Kembangan,9.0,Bedok,25.0,unknown,56.0
+395,Bayfront,4.0,Marina South Pier,1.0,Clarke Quay,5.0,City Hall,9.0,Dhoby Ghaut,7.0,Chinatown,58.0,Bugis,4.0,HarbourFront,6.0,Telok Ayer,2.0,Tiong Bahru,6.0,Esplanade,3.0,Downtown,1.0,Somerset,1.0,unknown,46.0,Tanjong Pagar,72.0,Marina Bay,2.0,Raffles Place,20.0,Promenade,2.0,Outram Park,44.0
+1284,unknown,439.0,Punggol,51.0,Buangkok,49.0,Hougang,28.0,Sengkang,413.0
+1060,Bukit Batok,1.0,Lakeside,8.0,Boon Lay,2.0,Jurong East,9.0,Chinese Garden,11.0,unknown,54.0
+748,unknown,6.0,Bedok,1.0,Tanah Merah,3.0
+1525,unknown,22.0,Yishun,9.0
+524,Somerset,15.0,Redhill,56.0,Tanjong Pagar,38.0,Telok Blangah,1.0,Clarke Quay,8.0,Outram Park,91.0,HarbourFront,57.0,Orchard,48.0,Downtown,3.0,Labrador Park,1.0,Raffles Place,238.0,Dhoby Ghaut,37.0,Queenstown,23.0,Tiong Bahru,689.0,unknown,1435.0,Chinatown,82.0,Telok Ayer,4.0
+1413,unknown,93.0,Pasir Ris,5.0
+1106,unknown,5.0
+1218,Punggol,11.0,unknown,278.0,Sengkang,254.0,Buangkok,42.0,Hougang,20.0
+943,Tanah Merah,2.0,unknown,61.0,Bedok,43.0,Tampines,2.0,Kembangan,20.0
+636,Dhoby Ghaut,32.0,unknown,138.0,Clarke Quay,1.0,Esplanade,1.0,Botanic Gardens,3.0,Little India,16.0,City Hall,30.0,Somerset,19.0,Caldecott,2.0,Toa Payoh,16.0,Farrer Park,14.0,Lavender,3.0,Bugis,15.0,Bras Basah,1.0,Newton,52.0,Novena,10.0,Orchard,112.0
+590,Orchard,31.0,Chinatown,48.0,Boon Keng,23.0,Bayfront,42.0,Newton,5.0,Novena,26.0,Clarke Quay,9.0,Bras Basah,3.0,Somerset,4.0,Farrer Park,126.0,Little India,1374.0,Lavender,27.0,City Hall,38.0,Outram Park,27.0,Kallang,7.0,Esplanade,3.0,Toa Payoh,12.0,Bugis,132.0,Raffles Place,88.0,Nicoll Highway,2.0,Dhoby Ghaut,109.0,unknown,458.0,Promenade,13.0,Telok Ayer,7.0
+1172,Yio Chu Kang,2.0,unknown,1.0,Ang Mo Kio,3.0
+412,unknown,62.0
+1061,Chinese Garden,16.0,unknown,102.0,Lakeside,39.0,Jurong East,20.0,Bukit Batok,1.0
+1414,Tampines,27.0,Pasir Ris,5.0,unknown,120.0
+591,Buona Vista,11.0,Haw Par Villa,2.0,one-north,7.0,Holland Village,2.0,Commonwealth,9.0,Dover,16.0,Kent Ridge,16.0,unknown,77.0,Clementi,16.0
+1107,Toa Payoh,18.0,Braddell,3.0,Ang Mo Kio,11.0,Marymount,77.0,Caldecott,12.0,unknown,225.0,Lorong Chuan,2.0,Bishan,24.0
+1397,Khatib,2.0,Yio Chu Kang,43.0,unknown,216.0
+749,Expo,3.0,unknown,42.0,Bedok,6.0,Tanah Merah,18.0
+1173,Yio Chu Kang,29.0,unknown,125.0,Ang Mo Kio,16.0
+1526,unknown,10.0,Yishun,3.0
+413,unknown,3.0,Dhoby Ghaut,8.0,Tiong Bahru,1.0,Bugis,2.0,Promenade,1.0,Clarke Quay,1.0,Bras Basah,1.0,Farrer Park,1.0,City Hall,1.0
+396,Dhoby Ghaut,30.0,unknown,36.0,Little India,2.0,Bras Basah,1.0,Clarke Quay,7.0,Novena,1.0,Tiong Bahru,7.0,Bayfront,143.0,Redhill,2.0,Marina Bay,19.0,Raffles Place,49.0,Chinatown,3.0,Lavender,2.0,Tanjong Pagar,1.0,City Hall,28.0,Esplanade,3.0,Nicoll Highway,2.0,Downtown,6.0,Outram Park,5.0,Somerset,22.0,Telok Ayer,5.0,Promenade,44.0,Bugis,8.0,Farrer Park,5.0,Orchard,6.0
+525,Telok Ayer,86.0,City Hall,1108.0,Esplanade,229.0,Bras Basah,36.0,Tanjong Pagar,108.0,Downtown,166.0,Somerset,38.0,unknown,1104.0,Marina South Pier,126.0,Lavender,73.0,Bugis,136.0,Nicoll Highway,17.0,Dhoby Ghaut,209.0,Outram Park,115.0,Promenade,427.0,Bayfront,1128.0,Stadium,81.0,Little India,115.0,Farrer Park,109.0,Marina Bay,489.0,Chinatown,140.0,Raffles Place,3392.0,Clarke Quay,197.0
+637,unknown,2.0
+720,Redhill,11.0,Commonwealth,1.0,Holland Village,2.0,unknown,32.0,Queenstown,20.0,Orchard,2.0,Tiong Bahru,4.0
+1219,unknown,121.0,Punggol,9.0,Hougang,17.0,Buangkok,91.0,Sengkang,67.0
+832,Chinese Garden,14.0,unknown,380.0,Bukit Batok,8.0,Jurong East,157.0,Clementi,36.0
+944,Bedok,47.0,unknown,95.0,Tampines,5.0,Kembangan,21.0,Tanah Merah,11.0,Simei,1.0
+833,Paya Lebar,2.0,Kembangan,15.0,Bedok,10.0,Eunos,24.0,unknown,74.0
+1415,Hougang,40.0,Sengkang,22.0,Buangkok,77.0,Kovan,12.0,unknown,126.0
+1527,unknown,65.0,Khatib,2.0,Yishun,27.0
+397,unknown,69.0,Queenstown,1.0,Dover,3.0,Commonwealth,3.0,one-north,3.0,Kent Ridge,11.0,Holland Village,1.0,Buona Vista,12.0
+1286,unknown,87.0
+1108,Toa Payoh,6.0,Braddell,7.0,unknown,100.0,Bishan,20.0,Marymount,29.0,Ang Mo Kio,9.0,Caldecott,9.0
+414,City Hall,6.0,Dhoby Ghaut,12.0,Nicoll Highway,1.0,Bugis,1.0,Little India,1.0,Bras Basah,5.0,Bayfront,1.0,unknown,2.0,Orchard,1.0,Tanjong Pagar,2.0
+480,Buona Vista,4.0,unknown,74.0,Redhill,5.0,Kent Ridge,4.0,Haw Par Villa,1.0,Pasir Panjang,1.0,Telok Blangah,1.0,Holland Village,2.0,Queenstown,27.0,Commonwealth,14.0
+1174,unknown,147.0,Ang Mo Kio,38.0,Yio Chu Kang,53.0
+1062,Lakeside,42.0,Chinese Garden,21.0,Boon Lay,6.0,unknown,132.0
+1481,Sembawang,21.0,unknown,76.0
+526,Outram Park,97.0,Marina Bay,4.0,Redhill,3.0,Little India,13.0,Bugis,14.0,Orchard,10.0,Bayfront,23.0,Tiong Bahru,9.0,Clarke Quay,23.0,Bras Basah,3.0,Telok Ayer,6.0,Dhoby Ghaut,26.0,unknown,88.0,City Hall,24.0,Esplanade,2.0,Promenade,11.0,Tanjong Pagar,5.0,Chinatown,279.0,Raffles Place,26.0
+1109,Toa Payoh,3.0,Marymount,19.0,Braddell,2.0,Ang Mo Kio,9.0,Bishan,43.0,Caldecott,7.0,Yio Chu Kang,3.0,unknown,86.0
+722,Farrer Road,1.0,Dhoby Ghaut,14.0,Outram Park,4.0,Botanic Gardens,2.0,Orchard,162.0,Little India,5.0,Tiong Bahru,14.0,unknown,84.0,Somerset,6.0,Bras Basah,1.0,Chinatown,1.0,Newton,1.0
+415,Kallang,23.0,Nicoll Highway,18.0,City Hall,506.0,Marina Bay,22.0,Esplanade,92.0,Clarke Quay,11.0,Raffles Place,78.0,Promenade,47.0,Dhoby Ghaut,93.0,Boon Keng,6.0,Chinatown,23.0,unknown,254.0,Bras Basah,48.0,Newton,2.0,Little India,50.0,Novena,7.0,Tanjong Pagar,5.0,Telok Ayer,4.0,Lavender,27.0,Farrer Park,33.0,Stadium,13.0,Bayfront,73.0,Orchard,89.0,Outram Park,27.0,Bugis,164.0,Somerset,26.0
+1370,Ang Mo Kio,7.0,Yio Chu Kang,14.0,unknown,60.0
+1175,Tampines,28.0,Expo,9.0,Tanah Merah,16.0,Pasir Ris,2.0,Simei,13.0,unknown,67.0
+481,Downtown,12.0,Kallang,16.0,Bugis,52.0,Marina South Pier,41.0,Clarke Quay,39.0,Little India,36.0,Promenade,490.0,Telok Ayer,13.0,Nicoll Highway,28.0,Esplanade,89.0,unknown,278.0,Chinatown,31.0,Bras Basah,16.0,Outram Park,34.0,Dhoby Ghaut,73.0,Mountbatten,4.0,Tanjong Pagar,14.0,Bayfront,371.0,Marina Bay,88.0,City Hall,357.0,Raffles Place,207.0,Lavender,31.0,Somerset,12.0,Farrer Park,39.0,Stadium,91.0
+946,Farrer Road,3.0,unknown,42.0
+1528,Yishun,24.0,unknown,41.0,Khatib,1.0
+1287,unknown,54.0,Pasir Ris,12.0
+1482,Woodlands,2.0,unknown,57.0,Sembawang,7.0,Admiralty,11.0
+610,Kembangan,1.0,unknown,85.0,Kallang,5.0,Aljunied,10.0,Paya Lebar,60.0,Mountbatten,7.0,Dakota,34.0,Stadium,1.0,Eunos,4.0
+639,unknown,27.0
+1416,Buangkok,9.0,Kovan,7.0,Sengkang,4.0,unknown,46.0,Hougang,69.0
+1063,Simei,3.0,Bedok,21.0,Tampines,5.0,unknown,101.0,Tanah Merah,24.0,Expo,7.0
+834,Serangoon,2.0,Farrer Park,13.0,Lorong Chuan,1.0,Novena,3.0,Bartley,2.0,Potong Pasir,17.0,Lavender,5.0,Boon Keng,24.0,unknown,63.0,MacPherson,1.0,Woodleigh,3.0,Little India,18.0,Aljunied,2.0,Tai Seng,3.0,Kallang,5.0,Toa Payoh,10.0
+1305,Changi Airport,3.0,unknown,21.0,Pasir Ris,4.0
+835,unknown,90.0,Aljunied,2.0,Woodleigh,2.0,Nicoll Highway,1.0,Boon Keng,93.0,Lavender,7.0,Little India,7.0,Bugis,5.0,Novena,5.0,Kallang,3.0,Potong Pasir,5.0,Toa Payoh,10.0,Farrer Park,17.0,Bartley,1.0,Stadium,3.0
+947,unknown,61.0
+611,Mountbatten,1.0,Kallang,1.0,unknown,3.0,Dakota,1.0
+1483,Eunos,25.0,Tai Seng,5.0,Mountbatten,49.0,Boon Keng,6.0,Nicoll Highway,10.0,Potong Pasir,5.0,MacPherson,2.0,Stadium,39.0,Dakota,12.0,Kallang,377.0,Lavender,46.0,Farrer Park,56.0,Paya Lebar,74.0,Promenade,23.0,Bugis,79.0,Aljunied,641.0,unknown,698.0
+594,Kent Ridge,1.0
+482,Somerset,7.0,unknown,11.0,Clarke Quay,19.0,Chinatown,1.0,Bayfront,4.0,Orchard,5.0,Outram Park,2.0,Bras Basah,1.0,Bugis,1.0,Promenade,1.0,City Hall,4.0,Newton,3.0,Dhoby Ghaut,4.0,Raffles Place,4.0
+399,Bras Basah,1.0,Outram Park,1.0,Bugis,11.0,Little India,2.0,Nicoll Highway,1.0,Bayfront,1.0,City Hall,8.0,Marina Bay,2.0,unknown,5.0,Dhoby Ghaut,3.0,Promenade,4.0,Esplanade,3.0,Raffles Place,2.0,Farrer Park,1.0
+1064,unknown,178.0,Expo,17.0,Tampines,5.0,Simei,8.0,Bedok,14.0,Tanah Merah,35.0
+1176,unknown,13.0,Tampines,4.0,Tanah Merah,4.0,Simei,3.0
+1371,Choa Chu Kang,1.0,Kranji,1.0,Yew Tee,3.0,unknown,20.0
+1529,Khatib,5.0,unknown,73.0,Yishun,37.0

@@ -15,6 +15,7 @@ def process_data(f):
         target = data[0]
         data.pop(0)
         for j in range(0, int(len(data)/2)):
+            if data[2*j] =='unknown': continue
             df.loc[i] = [data[2*j], target, float(data[2*j+1])]
             i += 1
 

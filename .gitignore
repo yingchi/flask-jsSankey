@@ -1,2 +1,2 @@
 # exclude the pycharm track files
-/__pycache__
+__pycache__/

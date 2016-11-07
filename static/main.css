@@ -1,14 +1,32 @@
 @import url(//fonts.googleapis.com/css?family=PT+Serif|PT+Serif:b|PT+Serif:i|PT+Sans|PT+Sans:b);
 
+html {
+    min-width: 1040px;
+}
+
 h1 {
   font-size: 64px;
   font-weight: 300;
   letter-spacing: -2px;
   margin: .3em 0 .1em 0;
+  font-family: "PT Sans", sans-serif;
 }
 
 svg {
   font: 12px sans-serif;
+}
+
+body {
+    background: #fcfcfa;
+    color: #333;
+    font-family: "PT Serif", serif;
+    margin: 1em auto 4em auto;
+      margin-top: 1em;
+      margin-right: auto;
+      margin-bottom: 4em;
+      margin-left: auto;
+    position: relative;
+    width: 960px;
 }
 
 #chart{

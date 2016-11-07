@@ -42,6 +42,7 @@ $(document).ready(function(){
         };
         datafile = '../static/data/'+inputDate+'.txt';  
         d3.select("#default_sankey").remove(); 
+        d3.select("#new_sankey").remove();
         // append the new svg canvas to the page
         var units = "Trips";
         var margin = {top: 10, right: 10, bottom: 10, left: 10},

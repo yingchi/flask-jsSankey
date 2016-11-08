@@ -35,7 +35,9 @@ $(document).ready(function(){
         //var fs = require('fs');
         //var files = fs.readdirSync('/data');
         //console.log(files);
-        files =['20150809.txt'];
+        files = {{datafiles|tojson}};
+        console.log(files)
+        //files =['20150809.txt'];
         if(files.indexOf(inputDate+'.txt') == -1) {
             alert('The data for that date is not available!', inputDate);
             form.field1.focus();

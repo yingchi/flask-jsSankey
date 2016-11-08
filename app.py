@@ -1,7 +1,7 @@
+import os
 from flask import Flask
 from flask import request, render_template, jsonify
-import os
-import pandas as pd
+
 
 
 app = Flask(__name__)
@@ -9,7 +9,15 @@ app = Flask(__name__)
 @app.route('/')
 @app.route('/index')
 def index():
-    return render_template('index.html')
+	datafiles = []
+    for root, dirs, files in os.walk('./static/data'):
+        for filename in [os.path.join(root, name) for name in files]:
+            if not filename.endswith('.txt'):
+                continue
+            datafiles.append(filename)
+    return render_template('index.html', **{
+        'datafiles': datafiles
+    })
 
 
 

@@ -31,13 +31,10 @@ $(document).ready(function(){
     $("#submit").click(function(){
         var inputDate = $("#enteredDate").val();  
         var inputID = $("#enteredID").val();
-        //console.log(inputID);
-        //var fs = require('fs');
-        //var files = fs.readdirSync('/data');
-        //console.log(files);
+
         files = {{datafiles|tojson}};
-        console.log(files)
-        //files =['20150809.txt'];
+        //console.log(files)
+
         if(files.indexOf(inputDate+'.txt') == -1) {
             alert('The data for that date is not available!', inputDate);
             form.field1.focus();
